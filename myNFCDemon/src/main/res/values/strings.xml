@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyNFCDemon</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+         <!-- HhpRfidTestActivity -->
+     <string name="rfid_test">RFID</string>
+     <string name="rfid_search">搜索rfid标签</string>
+     <string name="rfid_find">查找</string>
+     <string name="rfid_wdata">RFID写入数据：</string>
+     <string name="rfid_rdata">RFID读出数据：</string>
+     <string name="rfid_write">写入</string>
+     <string name="rfid_read">读取</string>
+     <string name="rfid_findnull">未找到rfid卡</string>
+     <string name="rfid_readerror">读取失败</string>
+     <string name="rfid_writeerror">写入失败</string>
+
+</resources>

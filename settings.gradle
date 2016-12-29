@@ -1,0 +1,2 @@
+include ':app', ':MvcMvpMVVM'
+include ':myNFCDemon'

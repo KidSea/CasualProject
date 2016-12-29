@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Thu Dec 29 19:06:49 CST 2016
+2.base=/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/build/intermediates/res/resources-debug.ap_
+5.file=/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/build/intermediates/res/resources-debug.ap_/res/menu/main.xml
+5.set=ANDROID_RESOURCE
+3.base=/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/build/intermediates/res/resources-debug.ap_
+6.file=/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+2.set=ANDROID_RESOURCE
+4.base=/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/build/intermediates/res/resources-debug.ap_
+7.file=/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/build/intermediates/res/resources-debug.ap_/res/layout/tag_vierwr.xml
+7.set=ANDROID_RESOURCE
+count=8
+0.file=/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+5.base=/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/build/intermediates/res/resources-debug.ap_
+1.file=/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+7.base=/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/build/intermediates/res/resources-debug.ap_
+2.file=/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/build/intermediates/res/resources-debug.ap_/res/xml/nfc_tech_filter.xml
+6.set=ANDROID_RESOURCE
+0.base=/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+3.file=/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/build/intermediates/res/resources-debug.ap_/resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/build/intermediates/res/resources-debug.ap_
+4.file=/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+0.set=DEX
