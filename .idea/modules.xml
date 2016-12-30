@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CasualProject.iml" filepath="$PROJECT_DIR$/CasualProject.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MvcMvpMVVM/MvcMvpMVVM.iml" filepath="$PROJECT_DIR$/MvcMvpMVVM/MvcMvpMVVM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mvc/Mvc.iml" filepath="$PROJECT_DIR$/Mvc/Mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mvp/Mvp.iml" filepath="$PROJECT_DIR$/Mvp/Mvp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/myNFCDemon/myNFCDemon.iml" filepath="$PROJECT_DIR$/myNFCDemon/myNFCDemon.iml" />
     </modules>

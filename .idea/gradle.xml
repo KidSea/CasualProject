@@ -8,7 +8,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/MvcMvpMVVM" />
+            <option value="$PROJECT_DIR$/Mvc" />
+            <option value="$PROJECT_DIR$/Mvp" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/myNFCDemon" />
           </set>
