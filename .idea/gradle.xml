@@ -14,6 +14,7 @@
             <option value="$PROJECT_DIR$/MyViewPagerDemo" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/myNFCDemon" />
+            <option value="$PROJECT_DIR$/mybutton" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
