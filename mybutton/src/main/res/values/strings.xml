@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyButton</string>
+
+    <string name="tv_account">账号</string>
+    <string name="tv_passwd">密码</string>
+    <string name="bt_sub">登入</string>
+</resources>

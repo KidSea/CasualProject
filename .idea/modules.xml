@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/Mvvm/Mvvm.iml" filepath="$PROJECT_DIR$/Mvvm/Mvvm.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyViewPagerDemo/MyViewPagerDemo.iml" filepath="$PROJECT_DIR$/MyViewPagerDemo/MyViewPagerDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listviewdemo/listviewdemo.iml" filepath="$PROJECT_DIR$/listviewdemo/listviewdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/myNFCDemon/myNFCDemon.iml" filepath="$PROJECT_DIR$/myNFCDemon/myNFCDemon.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybutton/mybutton.iml" filepath="$PROJECT_DIR$/mybutton/mybutton.iml" />
     </modules>

@@ -1,2 +1,2 @@
-include ':app', ':Mvc', ':Mvp', ':Mvvm', ':MyViewPagerDemo', ':mybutton'
+include ':app', ':Mvc', ':Mvp', ':Mvvm', ':MyViewPagerDemo', ':mybutton', ':listviewdemo'
 include ':myNFCDemon'
