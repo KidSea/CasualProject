@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="@color/white">
+
+    <TextView
+        android:id="@+id/second_listview_item_textview"
+        style="@style/ListView_Text"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:gravity="center_vertical"
+        android:paddingLeft="15dp"
+        android:background="@color/white"
+        android:textColor="@color/pink_main"
+        android:text="我是第一条" />
+
+    <ImageView
+        android:id="@+id/second_listview_item_imageview"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="15dp"
+        android:clickable="true"
+        android:contentDescription="条目选择效果"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:src="@drawable/gridview_selectimg_state" />
+
+</RelativeLayout>

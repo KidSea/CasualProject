@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:gravity="center|start"
+        android:paddingLeft="10dp"
+        android:text="@string/alertdialogcustom_title"
+        android:textColor="@color/pink_main"
+        android:textSize="20sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/pink_main" />
+
+    <EditText
+        android:id="@+id/et_input"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@null"
+        android:hint="@string/alertdialogcustom_hint"
+        android:padding="10dp"
+        android:textSize="18sp" />
+
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="2dp"
+        android:background="@color/pink_main" />
+
+    <Button
+        android:id="@+id/btn_alertdialog_okadd"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/btn_main_state"
+        android:text="@string/btn_okadd_second_text"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+
+</LinearLayout>

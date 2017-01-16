@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/res/merged/debug/anim/down_shakebottom.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/anim/down_shakebottom.xml"
+    },
+    {
+        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/res/merged/debug/anim/out_bottomtotop.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/anim/out_bottomtotop.xml"
+    },
+    {
+        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/res/merged/debug/anim/in_bottomtotop.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/anim/in_bottomtotop.xml"
+    },
+    {
+        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/res/merged/debug/anim/in_toptobottom.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/anim/in_toptobottom.xml"
+    },
+    {
+        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/res/merged/debug/anim/down_shaketext.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/anim/down_shaketext.xml"
+    },
+    {
+        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/res/merged/debug/anim/up_shaketop.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/anim/up_shaketop.xml"
+    },
+    {
+        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/res/merged/debug/anim/out_toptobottom.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/anim/out_toptobottom.xml"
+    }
+]

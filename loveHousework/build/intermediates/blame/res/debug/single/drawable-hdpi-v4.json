@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_main_state.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/drawable-hdpi/btn_main_state.xml"
+    },
+    {
+        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/res/merged/debug/drawable-hdpi-v4/viewpager_point_state.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/drawable-hdpi/viewpager_point_state.xml"
+    },
+    {
+        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/res/merged/debug/drawable-hdpi-v4/gridview_selectimg_state.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/drawable-hdpi/gridview_selectimg_state.xml"
+    }
+]

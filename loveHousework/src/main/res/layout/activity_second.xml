@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ListView
+        android:id="@+id/second_listview"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10" >
+    </ListView>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/btn_main_state"
+        android:onClick="btn_custom" >
+
+        <Button
+            android:id="@+id/btn_custom"
+            style="@style/ButtonText_nopadding"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/btn_main_state"
+            android:clickable="false"
+            android:drawableLeft="@drawable/add"
+            android:text="@string/btn_custom_text" />
+    </RelativeLayout>
+
+</LinearLayout>

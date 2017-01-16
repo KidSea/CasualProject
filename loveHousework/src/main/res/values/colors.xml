@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="red">#ff3333</color>
+    <color name="green">#9cfda3</color>
+    <color name="blue">#8d9dfd</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="black_main">#222222</color>
+    <color name="gray">#050505</color>
+    <color name="blue_selected">#56C0FD</color>
+    <color name="gray_copyright">#8f8d8d</color>
+    <color name="gray_copyright_2">#e2dede</color>
+    <color name="gray_main">#555651</color>
+    <color name="gray_dialog">#403D38</color>
+    <color name="pink_main">#f2787a</color>
+    <color name="pink_gray">#dc7372</color>
+    <color name="pink_btn_pressed">#968c87</color>
+    <color name="pink_dark">#e66b6b</color>
+
+</resources>

@@ -1,0 +1,94 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/pink_main"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <!--  
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewpager"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10" />-->
+    <tk.dalii.housework.controller.CustomViewPager 
+        android:id="@+id/viewpager"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="30dp" >
+
+        <LinearLayout
+            android:id="@+id/viewpager_point"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:orientation="horizontal" >
+        </LinearLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal" >
+        <LinearLayout
+            android:id="@+id/nav_btn"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/gray_main"
+            android:orientation="horizontal"
+            android:baselineAligned="false">
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/btn_main_state"
+                android:onClick="nav_btn_start" >
+
+                <Button
+                    android:id="@+id/nav_btn_start"
+                    style="@style/ButtonText_nopadding"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerHorizontal="true"
+                    android:background="@drawable/btn_main_state"
+                    android:clickable="false"
+                    android:drawableLeft="@drawable/start"
+                    android:text="@string/start" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/btn_main_state"
+                android:onClick="nav_btn_add" >
+
+                <Button
+                    android:id="@+id/nav_btn_add"
+                    style="@style/ButtonText_nopadding"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerHorizontal="true"
+                    android:background="@drawable/btn_main_state"
+                    android:clickable="false"
+                    android:drawableLeft="@drawable/add"
+                    android:text="@string/nav_btn_add" />
+            </RelativeLayout>
+        </LinearLayout>
+        <RelativeLayout 
+		    android:id="@+id/ad_banner"
+		    android:layout_width="match_parent"
+		    android:layout_height="match_parent"
+		    android:orientation="vertical">
+		</RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

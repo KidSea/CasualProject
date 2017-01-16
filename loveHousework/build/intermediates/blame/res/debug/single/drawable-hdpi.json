@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/res/merged/debug/drawable-hdpi/shake_top.png",
+        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/drawable-hdpi/shake_top.png"
+    },
+    {
+        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/res/merged/debug/drawable-hdpi/select_all.png",
+        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/drawable-hdpi/select_all.png"
+    },
+    {
+        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/res/merged/debug/drawable-hdpi/select_cancel.png",
+        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/drawable-hdpi/select_cancel.png"
+    },
+    {
+        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/res/merged/debug/drawable-hdpi/start.png",
+        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/drawable-hdpi/start.png"
+    },
+    {
+        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/res/merged/debug/drawable-hdpi/viewpager_point_white.png",
+        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/drawable-hdpi/viewpager_point_white.png"
+    },
+    {
+        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/res/merged/debug/drawable-hdpi/list_icon.png",
+        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/drawable-hdpi/list_icon.png"
+    },
+    {
+        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/res/merged/debug/drawable-hdpi/shake_bottom.png",
+        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/drawable-hdpi/shake_bottom.png"
+    },
+    {
+        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/res/merged/debug/drawable-hdpi/select_ok.png",
+        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/drawable-hdpi/select_ok.png"
+    },
+    {
+        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/res/merged/debug/drawable-hdpi/add.png",
+        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/drawable-hdpi/add.png"
+    },
+    {
+        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/res/merged/debug/drawable-hdpi/select_normal.png",
+        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/drawable-hdpi/select_normal.png"
+    },
+    {
+        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/res/merged/debug/drawable-hdpi/remove.png",
+        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/drawable-hdpi/remove.png"
+    },
+    {
+        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/res/merged/debug/drawable-hdpi/hit_index.png",
+        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/drawable-hdpi/hit_index.png"
+    }
+]

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+    <!-- splash_view.xml -->
+    <string name="app_name">天天爱家务</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="slogan_1">这\n场\n争\n夺\n战</string>
+    <string name="slogen_2">我\n来\n做\n裁\n判\n !</string>
+    <string name="copy_right">© 2016 KidSea</string>
+    <!-- activity_main.xml -->
+    <string name="start">开始</string>
+    <string name="nav_btn_add">添加</string>
+    <!-- viewpager_shake.xml -->
+    <string name="viewpager_shake_top">shake图片上半部分</string>
+    <string name="viewpager_shake_bottom">shake图片下半部分</string>
+    <!-- viewpager_gridview.xml -->
+    <string name="circle_description">空心圆图片背景</string>
+    <string name="circle_text">快去添加选项吧！</string>
+    <!-- viewpager_point_item.xml -->
+    <string name="point_description">ViewPager下的表示状态的小点</string>
+    <!-- viewpager_gridview_item.xml -->
+    <string name="gridview_item_imageview_description">grid条目选择样式图片</string>
+    <!-- popupwindow_top.xml -->
+    <string name="btn_cancel_text">取消</string>
+    <string name="btn_select_all_text">全选</string>
+    <!-- popupwindow_top_shake.xml -->
+    <string name="tv_shake_text">摇一摇</string>
+    <!-- popupwindow_bottom_second.xml -->
+    <string name="btn_okdelete_second_text">确认删除</string>
+    <string name="btn_okadd_second_text">确认添加</string>
+    <!-- popupwindow_deletedialogcustom.xml -->
+    <string name="btn_ok_text">确认</string>
+    <!-- alertdialogcustom.xml -->
+    <string name="alertdialogcustom_title">新增项</string>
+    <string name="alertdialogcustom_hint">请输入新增项</string>
+    <!-- activity_second.xml -->
+    <string name="btn_custom_text">自定义</string>
+    <string name="activity_second_label">选项页面</string>
+	
+</resources>
