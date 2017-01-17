@@ -1,2 +1,2 @@
-include ':app', ':Mvc', ':Mvp', ':Mvvm', ':MyViewPagerDemo', ':mybutton', ':listviewdemo', ':loveHousework'
+include ':app', ':Mvc', ':Mvp', ':Mvvm', ':MyViewPagerDemo', ':mybutton', ':listviewdemo', ':loveHousework', ':circleMenu'
 include ':myNFCDemon'
