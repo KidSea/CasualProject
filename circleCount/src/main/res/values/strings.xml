@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">circledemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="setstepnumber">设置步数</string>
+    <string name="inputstepnumbei">请输入步数</string>
+
+</resources>

@@ -1,0 +1,182 @@
+[
+    {
+        "outputFile": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleCount/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleCount/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleCount/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleCount/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 52,
+                        "endOffset": 155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 47,
+                    "endOffset": 265
+                },
+                "from": {
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleCount/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 47,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 270,
+                    "endColumn": 52,
+                    "endOffset": 318
+                },
+                "from": {
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleCount/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 161,
+                        "endColumn": 52,
+                        "endOffset": 209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 323,
+                    "endColumn": 49,
+                    "endOffset": 368
+                },
+                "from": {
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleCount/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 263,
+                        "endColumn": 49,
+                        "endOffset": 308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 373,
+                    "endColumn": 46,
+                    "endOffset": 415
+                },
+                "from": {
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleCount/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 215,
+                        "endColumn": 46,
+                        "endOffset": 257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 420,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 706
+                },
+                "from": {
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleCount/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 711,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 866
+                },
+                "from": {
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleCount/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]
