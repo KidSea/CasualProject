@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/Mvvm/Mvvm.iml" filepath="$PROJECT_DIR$/Mvvm/Mvvm.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyViewPagerDemo/MyViewPagerDemo.iml" filepath="$PROJECT_DIR$/MyViewPagerDemo/MyViewPagerDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circleCount/circleCount.iml" filepath="$PROJECT_DIR$/circleCount/circleCount.iml" />
       <module fileurl="file://$PROJECT_DIR$/circleMenu/circleMenu.iml" filepath="$PROJECT_DIR$/circleMenu/circleMenu.iml" />
       <module fileurl="file://$PROJECT_DIR$/listviewdemo/listviewdemo.iml" filepath="$PROJECT_DIR$/listviewdemo/listviewdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/loveHousework/loveHousework.iml" filepath="$PROJECT_DIR$/loveHousework/loveHousework.iml" />
