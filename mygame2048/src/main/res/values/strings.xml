@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">myGame2048</string>
+    <string name="app_name">2048</string>
+
+    <string name="score_name">分数： </string>
+    <string name="maxscore_name">最高分数： </string>
+
+    <string name="new_game">重新开始</string>
 </resources>
