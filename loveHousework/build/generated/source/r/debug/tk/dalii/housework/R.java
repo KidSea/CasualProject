@@ -153,6 +153,14 @@ public final class R {
         public static final int AnimationFade_top=0x7f060002;
         /**  API 11 theme customizations can go here. 
  API 14 theme customizations can go here. 
+
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+
+
+        
          */
         public static final int AppBaseTheme=0x7f060000;
         public static final int AppTheme=0x7f060003;

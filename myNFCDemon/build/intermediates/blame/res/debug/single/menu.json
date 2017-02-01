@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/build/intermediates/res/merged/debug/menu/main.xml",
-        "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/src/main/res/menu/main.xml"
+        "merged": "D:\\android\\CasualProject\\myNFCDemon\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\android\\CasualProject\\myNFCDemon\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\android\\CasualProject\\myNFCDemon\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\android\\CasualProject\\myNFCDemon\\src\\main\\res\\menu\\main.xml"
     }
 ]

@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/loveHousework/loveHousework.iml" filepath="$PROJECT_DIR$/loveHousework/loveHousework.iml" />
       <module fileurl="file://$PROJECT_DIR$/myNFCDemon/myNFCDemon.iml" filepath="$PROJECT_DIR$/myNFCDemon/myNFCDemon.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybutton/mybutton.iml" filepath="$PROJECT_DIR$/mybutton/mybutton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mygame2048/mygame2048.iml" filepath="$PROJECT_DIR$/mygame2048/mygame2048.iml" />
     </modules>
   </component>
 </project>

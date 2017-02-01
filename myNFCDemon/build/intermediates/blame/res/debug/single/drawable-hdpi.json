@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
-        "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/src/main/res/drawable-hdpi/ic_launcher.png"
+        "merged": "D:\\android\\CasualProject\\myNFCDemon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\android\\CasualProject\\myNFCDemon\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\android\\CasualProject\\myNFCDemon\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\android\\CasualProject\\myNFCDemon\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     }
 ]
