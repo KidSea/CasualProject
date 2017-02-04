@@ -3,8 +3,9 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="E:\Android Studio\gradle\gradle-2.14.1" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -19,6 +20,7 @@
             <option value="$PROJECT_DIR$/loveHousework" />
             <option value="$PROJECT_DIR$/myNFCDemon" />
             <option value="$PROJECT_DIR$/mybutton" />
+            <option value="$PROJECT_DIR$/mygame2048" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

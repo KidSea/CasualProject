@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleMenu/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+        "outputFile": "D:\\android\\CasualProject\\circleMenu\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
         "map": [
             {
                 "to": {
@@ -12,14 +12,40 @@
                     "endOffset": 201
                 },
                 "from": {
-                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleMenu/src/main/res/values-v14/styles.xml",
+                    "file": "D:\\android\\CasualProject\\circleMenu\\src\\main\\res\\values-v14\\styles.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 816,
+                        "startOffset": 838,
                         "endLine": 24,
                         "endColumn": 12,
-                        "endOffset": 962
+                        "endOffset": 986
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\android\\CasualProject\\circleMenu\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "E:\\android\\CasualProject\\circleMenu\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 838,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 986
                     }
                 }
             }

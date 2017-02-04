@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/res/merged/debug/menu/main.xml",
-        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/menu/main.xml"
+        "merged": "E:\\android\\CasualProject\\loveHousework\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\android\\CasualProject\\loveHousework\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\menu\\main.xml"
     }
 ]

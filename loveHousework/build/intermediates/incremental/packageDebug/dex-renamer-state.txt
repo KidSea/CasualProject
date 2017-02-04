@@ -1,4 +1,0 @@
-#Mon Jan 16 15:04:59 CST 2017
-base.0=/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/transforms/dex/debug/folders/1000/1f/main
-renamed.0=classes.dex
-file.0=/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

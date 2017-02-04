@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleCount/build/intermediates/res/merged/debug/menu/main.xml",
-        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleCount/src/main/res/menu/main.xml"
+        "merged": "E:\\android\\CasualProject\\circleCount\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\android\\CasualProject\\circleCount\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\android\\CasualProject\\circleCount\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\android\\CasualProject\\circleCount\\src\\main\\res\\menu\\main.xml"
     }
 ]

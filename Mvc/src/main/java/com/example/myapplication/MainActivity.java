@@ -75,7 +75,7 @@ public class MainActivity extends AppCompatActivity {
                             @Override
                             public void run() {
                                 mProgressDialog.dismiss();
-                                Toast.makeText(MainActivity.this,"欢迎回来",Toast.LENGTH_SHORT).show();
+                                Toast.makeText(MainActivity.this,"欢迎您回来",Toast.LENGTH_SHORT).show();
                             }
                         });
 
