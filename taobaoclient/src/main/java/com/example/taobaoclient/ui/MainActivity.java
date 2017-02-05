@@ -1,5 +1,7 @@
 package com.example.taobaoclient.ui;
 
+import com.example.taobaoclient.R;
+
 /**
  * Created by yuxuehai on 17-2-4.
  */
@@ -7,11 +9,11 @@ package com.example.taobaoclient.ui;
 public class MainActivity extends BaseActivity {
 
 
-    // TODO: 17-2-4  continue
+
 
     @Override
     protected int getContentLayoutId() {
-        return 0;
+        return R.layout.activity_main;
     }
 
     @Override

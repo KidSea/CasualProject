@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">TaobaoClient</string>
+
+    <string name="home_str">首页</string>
+    <string name="weitao_str">微淘</string>
+    <string name="find_str">发现</string>
+    <string name="buy_str">购物车</string>
+    <string name="my_str">我的淘宝</string>
 </resources>
