@@ -4,6 +4,9 @@ import android.view.View;
 import android.widget.ImageView;
 
 import com.example.taobaoclient.R;
+import com.example.taobaoclient.fragment.BaseFragment;
+import com.example.taobaoclient.fragment.FrgmentFactory;
+import com.example.taobaoclient.presenter.MainActivityPresenter;
 
 /**
  * Created by yuxuehai on 17-2-4.
@@ -20,6 +23,9 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
     private int[] select_on = {R.drawable.guide_home_on, R.drawable.guide_tfaccount_on, R.drawable.guide_discover_on, R.drawable.guide_cart_on, R.drawable.guide_account_on};
     // 界面底部的未选中菜单按钮资源
     private int[] select_off = {R.drawable.bt_menu_0_select, R.drawable.bt_menu_1_select, R.drawable.bt_menu_2_select, R.drawable.bt_menu_3_select, R.drawable.bt_menu_4_select};
+    private BaseFragment mBaseFragment;
+    private MainActivityPresenter mPresenter;
+
 
 
     @Override
@@ -29,10 +35,19 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
 
     @Override
     protected void initView() {
+        mPresenter = new MainActivityPresenter(this);
         for (int i = 0; i < bt_menu.length; i++) {
             bt_menu[i] = (ImageView) findViewById(bt_menu_id[i]);
             bt_menu[i].setOnClickListener(this);
+            mBaseFragment = FrgmentFactory.getFragment(i);
+            mPresenter.addFragment(mBaseFragment);
         }
+
+
+
+        //初始化显示界面
+        mPresenter.showFragment(mBaseFragment);
+
 
         //设置默认选中按钮
         bt_menu[0].setImageResource(select_on[0]);
@@ -50,14 +65,24 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
 
         switch (id) {
             case R.id.iv_menu_0:
+                mBaseFragment = FrgmentFactory.getFragment(0);
+                mPresenter.judgeFragment(mBaseFragment);
                 break;
             case R.id.iv_menu_1:
+                mBaseFragment = FrgmentFactory.getFragment(1);
+                mPresenter.judgeFragment(mBaseFragment);
                 break;
             case R.id.iv_menu_2:
+                mBaseFragment = FrgmentFactory.getFragment(2);
+                mPresenter.judgeFragment(mBaseFragment);
                 break;
             case R.id.iv_menu_3:
+                mBaseFragment = FrgmentFactory.getFragment(3);
+                mPresenter.judgeFragment(mBaseFragment);
                 break;
             case R.id.iv_menu_4:
+                mBaseFragment = FrgmentFactory.getFragment(4);
+                mPresenter.judgeFragment(mBaseFragment);
                 break;
         }
 
