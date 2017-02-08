@@ -6,4 +6,9 @@
     <string name="find_str">发现</string>
     <string name="buy_str">购物车</string>
     <string name="my_str">我的淘宝</string>
+
+    <string name="top_hint">搜索宝贝-店铺</string>
+
+    <string name="special_market">特色市场</string>
+    <string name="hot_market">热门市场</string>
 </resources>

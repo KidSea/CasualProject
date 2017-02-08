@@ -4,6 +4,11 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
 
-    <color name="line_color">#CCCCCC</color>
+    <color name="bg_Gray">#CCCCCC</color>
+    <color name="white">#FFFFFF</color>
 
+    <color name="top_content">#FF5000</color>
+
+
+    <color name="tv_Black">#000000</color>
 </resources>

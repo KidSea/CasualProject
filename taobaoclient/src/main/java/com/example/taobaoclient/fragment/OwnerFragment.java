@@ -1,9 +1,11 @@
 package com.example.taobaoclient.fragment;
 
 import android.os.Bundle;
+import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.TextView;
 
 import com.example.taobaoclient.R;
 
@@ -19,7 +21,8 @@ public class OwnerFragment extends BaseFragment {
 
     @Override
     protected void initView(View rootView) {
-
+        TextView textView = (TextView) rootView.findViewById(R.id.tv_show);
+        textView.setGravity(Gravity.CENTER);
     }
 
     @Override

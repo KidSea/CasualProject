@@ -1,5 +1,6 @@
 package com.example.taobaoclient.ui;
 
+import android.content.Intent;
 import android.view.View;
 import android.widget.ImageView;
 
@@ -44,7 +45,7 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
         }
 
 
-
+        mBaseFragment = FrgmentFactory.getFragment(0);
         //初始化显示界面
         mPresenter.showFragment(mBaseFragment);
 
@@ -93,5 +94,14 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
                 bt_menu[i].setImageResource(select_on[i]);
             }
         }
+    }
+
+    @Override
+    public void onBackPressed() {
+        super.onBackPressed();
+        Intent intent = new Intent(Intent.ACTION_MAIN);
+        intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+        intent.addCategory(Intent.CATEGORY_HOME);
+        startActivity(intent);
     }
 }
