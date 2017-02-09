@@ -34,4 +34,9 @@ public class BuyCarFragment extends BaseFragment {
     protected void load() {
 
     }
+
+    @Override
+    public void onClick(View v) {
+
+    }
 }

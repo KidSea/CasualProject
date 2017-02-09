@@ -25,7 +25,7 @@ public class MainActivityPresenter extends BasePresenter {
     /** 添加Fragment **/
     public void addFragment(Fragment fragment) {
         FragmentTransaction ft = mMainActivity.getSupportFragmentManager().beginTransaction();
-        ft.add(R.id.activity_main, fragment);
+        ft.add(R.id.layout_show, fragment);
         ft.commit();
     }
 
