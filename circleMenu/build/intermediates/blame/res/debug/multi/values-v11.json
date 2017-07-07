@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\android\\CasualProject\\circleMenu\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "outputFile": "/home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,33 @@
                     "endOffset": 187
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\circleMenu\\src\\main\\res\\values-v11\\styles.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 773,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 905
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/yuxuehai/AndroidStudioProjects/CasualProject/E:\\android\\CasualProject\\circleMenu\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/E:\\android\\CasualProject\\circleMenu\\src\\main\\res\\values-v11\\styles.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -26,7 +52,7 @@
         ]
     },
     {
-        "outputFile": "D:\\android\\CasualProject\\circleMenu\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "outputFile": "/home/yuxuehai/AndroidStudioProjects/CasualProject/D:\\android\\CasualProject\\circleMenu\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
         "map": [
             {
                 "to": {
@@ -38,7 +64,7 @@
                     "endOffset": 187
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\circleMenu\\src\\main\\res\\values-v11\\styles.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/D:\\android\\CasualProject\\circleMenu\\src\\main\\res\\values-v11\\styles.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,

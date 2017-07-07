@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\android\\CasualProject\\loveHousework\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "outputFile": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
         "map": [
             {
                 "to": {
@@ -12,21 +12,21 @@
                     "endOffset": 187
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values-v11\\styles.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values-v11/styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 183,
+                        "startOffset": 182,
                         "endLine": 8,
                         "endColumn": 12,
-                        "endOffset": 317
+                        "endOffset": 316
                     }
                 }
             }
         ]
     },
     {
-        "outputFile": "D:\\android\\CasualProject\\loveHousework\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "outputFile": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
         "map": [
             {
                 "to": {
@@ -38,14 +38,14 @@
                     "endOffset": 187
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values-v11\\styles.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values-v11/styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 183,
+                        "startOffset": 182,
                         "endLine": 8,
                         "endColumn": 12,
-                        "endOffset": 317
+                        "endOffset": 316
                     }
                 }
             }

@@ -1,10 +1,10 @@
 [
     {
-        "merged": "E:\\android\\CasualProject\\circleMenu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "E:\\android\\CasualProject\\circleMenu\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "D:\\android\\CasualProject\\circleMenu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "D:\\android\\CasualProject\\circleMenu\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleMenu/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleMenu/src/main/res/layout/activity_main.xml"
     }
 ]

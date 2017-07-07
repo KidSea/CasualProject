@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\android\\CasualProject\\circleCount\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "outputFile": "/home/yuxuehai/AndroidStudioProjects/CasualProject/E:\\android\\CasualProject\\circleCount\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 187
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\circleCount\\src\\main\\res\\values-v11\\styles.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/E:\\android\\CasualProject\\circleCount\\src\\main\\res\\values-v11\\styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -26,7 +26,7 @@
         ]
     },
     {
-        "outputFile": "D:\\android\\CasualProject\\circleCount\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "outputFile": "/home/yuxuehai/AndroidStudioProjects/CasualProject/D:\\android\\CasualProject\\circleCount\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
         "map": [
             {
                 "to": {
@@ -38,7 +38,7 @@
                     "endOffset": 187
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\circleCount\\src\\main\\res\\values-v11\\styles.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/D:\\android\\CasualProject\\circleCount\\src\\main\\res\\values-v11\\styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -46,6 +46,32 @@
                         "endLine": 8,
                         "endColumn": 12,
                         "endOffset": 317
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 182,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 316
                     }
                 }
             }

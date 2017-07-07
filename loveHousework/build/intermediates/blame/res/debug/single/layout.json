@@ -1,130 +1,130 @@
 [
     {
-        "merged": "E:\\android\\CasualProject\\loveHousework\\build\\intermediates\\res\\merged\\debug\\layout\\second_listview_item.xml",
-        "source": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\layout\\second_listview_item.xml"
+        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/res/merged/debug/layout/activity_second.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/layout/activity_second.xml"
     },
     {
-        "merged": "D:\\android\\CasualProject\\loveHousework\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_point_item.xml",
-        "source": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\layout\\viewpager_point_item.xml"
+        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/res/merged/debug/layout/viewpager_gridview.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/layout/viewpager_gridview.xml"
     },
     {
-        "merged": "E:\\android\\CasualProject\\loveHousework\\build\\intermediates\\res\\merged\\debug\\layout\\splash_view.xml",
-        "source": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\layout\\splash_view.xml"
+        "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/build/intermediates/res/merged/debug/layout/activity_second.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/layout/activity_second.xml"
     },
     {
-        "merged": "E:\\android\\CasualProject\\loveHousework\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow_top_second.xml",
-        "source": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\layout\\popupwindow_top_second.xml"
+        "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/build/intermediates/res/merged/debug/layout/splash_view.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/layout/splash_view.xml"
     },
     {
-        "merged": "E:\\android\\CasualProject\\loveHousework\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow_bottom_second.xml",
-        "source": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\layout\\popupwindow_bottom_second.xml"
+        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/res/merged/debug/layout/popupwindow_bottom.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/layout/popupwindow_bottom.xml"
     },
     {
-        "merged": "E:\\android\\CasualProject\\loveHousework\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow_bottom.xml",
-        "source": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\layout\\popupwindow_bottom.xml"
+        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/res/merged/debug/layout/second_listview_item.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/layout/second_listview_item.xml"
     },
     {
-        "merged": "E:\\android\\CasualProject\\loveHousework\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_gridview_item.xml",
-        "source": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\layout\\viewpager_gridview_item.xml"
+        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/res/merged/debug/layout/popupwindow_deletedialogcustom.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/layout/popupwindow_deletedialogcustom.xml"
     },
     {
-        "merged": "D:\\android\\CasualProject\\loveHousework\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow_bottom_second.xml",
-        "source": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\layout\\popupwindow_bottom_second.xml"
+        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/res/merged/debug/layout/viewpager_gridview_item.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/layout/viewpager_gridview_item.xml"
     },
     {
-        "merged": "E:\\android\\CasualProject\\loveHousework\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_gridview.xml",
-        "source": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\layout\\viewpager_gridview.xml"
+        "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/build/intermediates/res/merged/debug/layout/viewpager_point_item.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/layout/viewpager_point_item.xml"
     },
     {
-        "merged": "E:\\android\\CasualProject\\loveHousework\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow_top.xml",
-        "source": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\layout\\popupwindow_top.xml"
+        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/res/merged/debug/layout/popupwindow_deletedialogcustom_second.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/layout/popupwindow_deletedialogcustom_second.xml"
     },
     {
-        "merged": "E:\\android\\CasualProject\\loveHousework\\build\\intermediates\\res\\merged\\debug\\layout\\activity_second.xml",
-        "source": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\layout\\activity_second.xml"
+        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/res/merged/debug/layout/popupwindow_bottom_second.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/layout/popupwindow_bottom_second.xml"
     },
     {
-        "merged": "D:\\android\\CasualProject\\loveHousework\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow_top_second.xml",
-        "source": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\layout\\popupwindow_top_second.xml"
+        "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/build/intermediates/res/merged/debug/layout/popupwindow_deletedialogcustom.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/layout/popupwindow_deletedialogcustom.xml"
     },
     {
-        "merged": "E:\\android\\CasualProject\\loveHousework\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/build/intermediates/res/merged/debug/layout/alertdialogcustom.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/layout/alertdialogcustom.xml"
     },
     {
-        "merged": "E:\\android\\CasualProject\\loveHousework\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow_deletedialogcustom.xml",
-        "source": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\layout\\popupwindow_deletedialogcustom.xml"
+        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/res/merged/debug/layout/popupwindow_top_shake.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/layout/popupwindow_top_shake.xml"
     },
     {
-        "merged": "D:\\android\\CasualProject\\loveHousework\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_gridview_item.xml",
-        "source": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\layout\\viewpager_gridview_item.xml"
+        "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/build/intermediates/res/merged/debug/layout/second_listview_item.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/layout/second_listview_item.xml"
     },
     {
-        "merged": "D:\\android\\CasualProject\\loveHousework\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow_top_shake.xml",
-        "source": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\layout\\popupwindow_top_shake.xml"
+        "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/build/intermediates/res/merged/debug/layout/viewpager_gridview.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/layout/viewpager_gridview.xml"
     },
     {
-        "merged": "D:\\android\\CasualProject\\loveHousework\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_shake.xml",
-        "source": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\layout\\viewpager_shake.xml"
+        "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/build/intermediates/res/merged/debug/layout/popupwindow_bottom.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/layout/popupwindow_bottom.xml"
     },
     {
-        "merged": "D:\\android\\CasualProject\\loveHousework\\build\\intermediates\\res\\merged\\debug\\layout\\second_listview_item.xml",
-        "source": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\layout\\second_listview_item.xml"
+        "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/build/intermediates/res/merged/debug/layout/popupwindow_top.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/layout/popupwindow_top.xml"
     },
     {
-        "merged": "D:\\android\\CasualProject\\loveHousework\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_gridview.xml",
-        "source": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\layout\\viewpager_gridview.xml"
+        "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/build/intermediates/res/merged/debug/layout/popupwindow_top_second.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/layout/popupwindow_top_second.xml"
     },
     {
-        "merged": "D:\\android\\CasualProject\\loveHousework\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow_bottom.xml",
-        "source": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\layout\\popupwindow_bottom.xml"
+        "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/build/intermediates/res/merged/debug/layout/popupwindow_top_shake.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/layout/popupwindow_top_shake.xml"
     },
     {
-        "merged": "D:\\android\\CasualProject\\loveHousework\\build\\intermediates\\res\\merged\\debug\\layout\\alertdialogcustom.xml",
-        "source": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\layout\\alertdialogcustom.xml"
+        "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/build/intermediates/res/merged/debug/layout/popupwindow_bottom_second.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/layout/popupwindow_bottom_second.xml"
     },
     {
-        "merged": "E:\\android\\CasualProject\\loveHousework\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_point_item.xml",
-        "source": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\layout\\viewpager_point_item.xml"
+        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "E:\\android\\CasualProject\\loveHousework\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow_deletedialogcustom_second.xml",
-        "source": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\layout\\popupwindow_deletedialogcustom_second.xml"
+        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/res/merged/debug/layout/alertdialogcustom.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/layout/alertdialogcustom.xml"
     },
     {
-        "merged": "E:\\android\\CasualProject\\loveHousework\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow_top_shake.xml",
-        "source": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\layout\\popupwindow_top_shake.xml"
+        "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/build/intermediates/res/merged/debug/layout/viewpager_shake.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/layout/viewpager_shake.xml"
     },
     {
-        "merged": "E:\\android\\CasualProject\\loveHousework\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_shake.xml",
-        "source": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\layout\\viewpager_shake.xml"
+        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/res/merged/debug/layout/popupwindow_top.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/layout/popupwindow_top.xml"
     },
     {
-        "merged": "D:\\android\\CasualProject\\loveHousework\\build\\intermediates\\res\\merged\\debug\\layout\\activity_second.xml",
-        "source": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\layout\\activity_second.xml"
+        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/res/merged/debug/layout/splash_view.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/layout/splash_view.xml"
     },
     {
-        "merged": "E:\\android\\CasualProject\\loveHousework\\build\\intermediates\\res\\merged\\debug\\layout\\alertdialogcustom.xml",
-        "source": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\layout\\alertdialogcustom.xml"
+        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/res/merged/debug/layout/viewpager_point_item.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/layout/viewpager_point_item.xml"
     },
     {
-        "merged": "D:\\android\\CasualProject\\loveHousework\\build\\intermediates\\res\\merged\\debug\\layout\\splash_view.xml",
-        "source": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\layout\\splash_view.xml"
+        "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/build/intermediates/res/merged/debug/layout/popupwindow_deletedialogcustom_second.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/layout/popupwindow_deletedialogcustom_second.xml"
     },
     {
-        "merged": "D:\\android\\CasualProject\\loveHousework\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow_deletedialogcustom_second.xml",
-        "source": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\layout\\popupwindow_deletedialogcustom_second.xml"
+        "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/build/intermediates/res/merged/debug/layout/viewpager_gridview_item.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/layout/viewpager_gridview_item.xml"
     },
     {
-        "merged": "D:\\android\\CasualProject\\loveHousework\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/res/merged/debug/layout/viewpager_shake.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/layout/viewpager_shake.xml"
     },
     {
-        "merged": "D:\\android\\CasualProject\\loveHousework\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow_top.xml",
-        "source": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\layout\\popupwindow_top.xml"
+        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/res/merged/debug/layout/popupwindow_top_second.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/layout/popupwindow_top_second.xml"
     },
     {
-        "merged": "D:\\android\\CasualProject\\loveHousework\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow_deletedialogcustom.xml",
-        "source": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\layout\\popupwindow_deletedialogcustom.xml"
+        "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/layout/activity_main.xml"
     }
 ]

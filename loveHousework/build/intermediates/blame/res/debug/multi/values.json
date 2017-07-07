@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\android\\CasualProject\\loveHousework\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 90
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 135
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 174
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 222
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 261
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 310
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 361
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 407
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 451
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 491
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 542
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -220,7 +220,7 @@
                     "endOffset": 586
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -239,7 +239,7 @@
                     "endOffset": 630
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -258,7 +258,7 @@
                     "endOffset": 674
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -277,7 +277,7 @@
                     "endOffset": 712
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -296,7 +296,7 @@
                     "endOffset": 752
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -315,7 +315,7 @@
                     "endOffset": 810
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\dimens.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -334,7 +334,7 @@
                     "endOffset": 866
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\dimens.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -353,13 +353,13 @@
                     "endOffset": 919
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 134,
+                        "startOffset": 129,
                         "endColumn": 52,
-                        "endOffset": 182
+                        "endOffset": 177
                     }
                 }
             },
@@ -372,13 +372,13 @@
                     "endOffset": 974
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
-                        "startOffset": 1753,
+                        "startOffset": 1715,
                         "endColumn": 54,
-                        "endOffset": 1803
+                        "endOffset": 1765
                     }
                 }
             },
@@ -391,13 +391,13 @@
                     "endOffset": 1032
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 4,
-                        "startOffset": 1611,
+                        "startOffset": 1576,
                         "endColumn": 57,
-                        "endOffset": 1664
+                        "endOffset": 1629
                     }
                 }
             },
@@ -410,13 +410,13 @@
                     "endOffset": 1088
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
-                        "startOffset": 1554,
+                        "startOffset": 1520,
                         "endColumn": 55,
-                        "endOffset": 1605
+                        "endOffset": 1571
                     }
                 }
             },
@@ -429,13 +429,13 @@
                     "endOffset": 1131
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 90,
+                        "startOffset": 86,
                         "endColumn": 42,
-                        "endOffset": 128
+                        "endOffset": 124
                     }
                 }
             },
@@ -448,13 +448,13 @@
                     "endOffset": 1178
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
-                        "startOffset": 1079,
+                        "startOffset": 1055,
                         "endColumn": 46,
-                        "endOffset": 1121
+                        "endOffset": 1097
                     }
                 }
             },
@@ -467,13 +467,13 @@
                     "endOffset": 1226
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 4,
-                        "startOffset": 1704,
+                        "startOffset": 1667,
                         "endColumn": 47,
-                        "endOffset": 1747
+                        "endOffset": 1710
                     }
                 }
             },
@@ -486,13 +486,13 @@
                     "endOffset": 1269
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
-                        "startOffset": 1474,
+                        "startOffset": 1442,
                         "endColumn": 42,
-                        "endOffset": 1512
+                        "endOffset": 1480
                     }
                 }
             },
@@ -505,13 +505,13 @@
                     "endOffset": 1324
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
-                        "startOffset": 1369,
+                        "startOffset": 1339,
                         "endColumn": 54,
-                        "endOffset": 1419
+                        "endOffset": 1389
                     }
                 }
             },
@@ -524,13 +524,13 @@
                     "endOffset": 1382
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
-                        "startOffset": 1310,
+                        "startOffset": 1281,
                         "endColumn": 57,
-                        "endOffset": 1363
+                        "endOffset": 1334
                     }
                 }
             },
@@ -543,13 +543,13 @@
                     "endOffset": 1433
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
-                        "startOffset": 1127,
+                        "startOffset": 1102,
                         "endColumn": 50,
-                        "endOffset": 1173
+                        "endOffset": 1148
                     }
                 }
             },
@@ -562,13 +562,13 @@
                     "endOffset": 1488
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 714,
+                        "startOffset": 697,
                         "endColumn": 54,
-                        "endOffset": 764
+                        "endOffset": 747
                     }
                 }
             },
@@ -581,13 +581,13 @@
                     "endOffset": 1537
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 770,
+                        "startOffset": 752,
                         "endColumn": 48,
-                        "endOffset": 814
+                        "endOffset": 796
                     }
                 }
             },
@@ -600,13 +600,13 @@
                     "endOffset": 1590
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 350,
+                        "startOffset": 341,
                         "endColumn": 52,
-                        "endOffset": 398
+                        "endOffset": 389
                     }
                 }
             },
@@ -619,13 +619,13 @@
                     "endOffset": 1667
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 967,
+                        "startOffset": 945,
                         "endColumn": 76,
-                        "endOffset": 1039
+                        "endOffset": 1017
                     }
                 }
             },
@@ -638,13 +638,13 @@
                     "endOffset": 1720
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 188,
+                        "startOffset": 182,
                         "endColumn": 52,
-                        "endOffset": 236
+                        "endOffset": 230
                     }
                 }
             },
@@ -657,13 +657,13 @@
                     "endOffset": 1763
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 474,
+                        "startOffset": 462,
                         "endColumn": 42,
-                        "endOffset": 512
+                        "endOffset": 500
                     }
                 }
             },
@@ -676,13 +676,13 @@
                     "endOffset": 1828
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 859,
+                        "startOffset": 839,
                         "endColumn": 64,
-                        "endOffset": 919
+                        "endOffset": 899
                     }
                 }
             },
@@ -695,13 +695,13 @@
                     "endOffset": 1879
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 242,
+                        "startOffset": 235,
                         "endColumn": 50,
-                        "endOffset": 288
+                        "endOffset": 281
                     }
                 }
             },
@@ -714,13 +714,13 @@
                     "endOffset": 1934
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 294,
+                        "startOffset": 286,
                         "endColumn": 54,
-                        "endOffset": 344
+                        "endOffset": 336
                     }
                 }
             },
@@ -733,13 +733,13 @@
                     "endOffset": 1971
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 436,
+                        "startOffset": 425,
                         "endColumn": 36,
-                        "endOffset": 468
+                        "endOffset": 457
                     }
                 }
             },
@@ -752,13 +752,13 @@
                     "endOffset": 2017
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
-                        "startOffset": 1219,
+                        "startOffset": 1192,
                         "endColumn": 45,
-                        "endOffset": 1260
+                        "endOffset": 1233
                     }
                 }
             },
@@ -771,13 +771,13 @@
                     "endOffset": 2080
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 613,
+                        "startOffset": 598,
                         "endColumn": 62,
-                        "endOffset": 671
+                        "endOffset": 656
                     }
                 }
             },
@@ -790,13 +790,13 @@
                     "endOffset": 2140
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 552,
+                        "startOffset": 538,
                         "endColumn": 59,
-                        "endOffset": 607
+                        "endOffset": 593
                     }
                 }
             },
@@ -810,7 +810,7 @@
                     "endOffset": 2393
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\styles.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 51,
                         "startColumn": 4,
@@ -831,7 +831,7 @@
                     "endOffset": 2640
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\styles.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 44,
                         "startColumn": 4,
@@ -852,7 +852,7 @@
                     "endOffset": 2934
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\styles.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -873,7 +873,7 @@
                     "endOffset": 3145
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\styles.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -894,7 +894,7 @@
                     "endOffset": 3325
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\styles.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 4,
@@ -915,7 +915,7 @@
                     "endOffset": 3455
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\styles.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 4,
@@ -936,7 +936,7 @@
                     "endOffset": 3790
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\styles.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -950,7 +950,7 @@
         ]
     },
     {
-        "outputFile": "E:\\android\\CasualProject\\loveHousework\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -961,14 +961,7 @@
                     "endOffset": 90
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 220,
-                        "endColumn": 39,
-                        "endOffset": 255
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -980,14 +973,7 @@
                     "endOffset": 135
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 261,
-                        "endColumn": 44,
-                        "endOffset": 301
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -999,14 +985,7 @@
                     "endOffset": 174
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 139,
-                        "endColumn": 38,
-                        "endOffset": 173
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -1018,14 +997,7 @@
                     "endOffset": 222
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 347,
-                        "endColumn": 47,
-                        "endOffset": 390
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -1037,14 +1009,7 @@
                     "endOffset": 261
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 307,
-                        "endColumn": 38,
-                        "endOffset": 341
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -1056,14 +1021,7 @@
                     "endOffset": 310
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 396,
-                        "endColumn": 48,
-                        "endOffset": 440
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -1075,14 +1033,7 @@
                     "endOffset": 361
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 446,
-                        "endColumn": 50,
-                        "endOffset": 492
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -1094,14 +1045,7 @@
                     "endOffset": 407
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 543,
-                        "endColumn": 45,
-                        "endOffset": 584
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -1113,14 +1057,7 @@
                     "endOffset": 451
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 498,
-                        "endColumn": 43,
-                        "endOffset": 537
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -1132,14 +1069,7 @@
                     "endOffset": 491
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 98,
-                        "endColumn": 39,
-                        "endOffset": 133
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -1151,14 +1081,7 @@
                     "endOffset": 542
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 680,
-                        "endColumn": 50,
-                        "endOffset": 726
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -1170,14 +1093,7 @@
                     "endOffset": 586
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 732,
-                        "endColumn": 43,
-                        "endOffset": 771
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -1189,14 +1105,7 @@
                     "endOffset": 630
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 635,
-                        "endColumn": 43,
-                        "endOffset": 674
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -1208,14 +1117,7 @@
                     "endOffset": 674
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 590,
-                        "endColumn": 43,
-                        "endOffset": 629
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -1227,14 +1129,7 @@
                     "endOffset": 712
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 59,
-                        "endColumn": 37,
-                        "endOffset": 92
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -1246,14 +1141,7 @@
                     "endOffset": 752
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 179,
-                        "endColumn": 39,
-                        "endOffset": 214
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -1265,14 +1153,7 @@
                     "endOffset": 810
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\dimens.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 92,
-                        "endColumn": 57,
-                        "endOffset": 145
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/dimens.xml"
                 }
             },
             {
@@ -1284,14 +1165,7 @@
                     "endOffset": 866
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\dimens.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 151,
-                        "endColumn": 55,
-                        "endOffset": 202
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/dimens.xml"
                 }
             },
             {
@@ -1303,14 +1177,7 @@
                     "endOffset": 919
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 134,
-                        "endColumn": 52,
-                        "endOffset": 182
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -1322,14 +1189,7 @@
                     "endOffset": 974
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 38,
-                        "startColumn": 4,
-                        "startOffset": 1753,
-                        "endColumn": 54,
-                        "endOffset": 1803
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -1341,14 +1201,7 @@
                     "endOffset": 1032
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 35,
-                        "startColumn": 4,
-                        "startOffset": 1611,
-                        "endColumn": 57,
-                        "endOffset": 1664
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -1360,14 +1213,7 @@
                     "endOffset": 1088
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 34,
-                        "startColumn": 4,
-                        "startOffset": 1554,
-                        "endColumn": 55,
-                        "endOffset": 1605
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -1379,14 +1225,7 @@
                     "endOffset": 1131
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 90,
-                        "endColumn": 42,
-                        "endOffset": 128
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -1398,14 +1237,7 @@
                     "endOffset": 1178
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 24,
-                        "startColumn": 4,
-                        "startOffset": 1079,
-                        "endColumn": 46,
-                        "endOffset": 1121
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -1417,14 +1249,7 @@
                     "endOffset": 1226
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 37,
-                        "startColumn": 4,
-                        "startOffset": 1704,
-                        "endColumn": 47,
-                        "endOffset": 1747
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -1436,14 +1261,7 @@
                     "endOffset": 1269
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 32,
-                        "startColumn": 4,
-                        "startOffset": 1474,
-                        "endColumn": 42,
-                        "endOffset": 1512
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -1455,14 +1273,7 @@
                     "endOffset": 1324
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 30,
-                        "startColumn": 4,
-                        "startOffset": 1369,
-                        "endColumn": 54,
-                        "endOffset": 1419
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -1474,14 +1285,7 @@
                     "endOffset": 1382
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 29,
-                        "startColumn": 4,
-                        "startOffset": 1310,
-                        "endColumn": 57,
-                        "endOffset": 1363
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -1493,14 +1297,7 @@
                     "endOffset": 1433
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 25,
-                        "startColumn": 4,
-                        "startOffset": 1127,
-                        "endColumn": 50,
-                        "endOffset": 1173
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -1512,14 +1309,7 @@
                     "endOffset": 1488
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 714,
-                        "endColumn": 54,
-                        "endOffset": 764
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -1531,14 +1321,7 @@
                     "endOffset": 1537
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 770,
-                        "endColumn": 48,
-                        "endOffset": 814
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -1550,13 +1333,13 @@
                     "endOffset": 1590
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 350,
+                        "startOffset": 341,
                         "endColumn": 52,
-                        "endOffset": 398
+                        "endOffset": 389
                     }
                 }
             },
@@ -1569,14 +1352,7 @@
                     "endOffset": 1667
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 967,
-                        "endColumn": 76,
-                        "endOffset": 1039
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -1588,14 +1364,7 @@
                     "endOffset": 1720
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 188,
-                        "endColumn": 52,
-                        "endOffset": 236
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -1607,14 +1376,7 @@
                     "endOffset": 1763
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 474,
-                        "endColumn": 42,
-                        "endOffset": 512
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -1626,14 +1388,7 @@
                     "endOffset": 1828
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 859,
-                        "endColumn": 64,
-                        "endOffset": 919
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -1645,14 +1400,7 @@
                     "endOffset": 1879
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 242,
-                        "endColumn": 50,
-                        "endOffset": 288
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -1664,14 +1412,7 @@
                     "endOffset": 1934
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 294,
-                        "endColumn": 54,
-                        "endOffset": 344
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -1683,14 +1424,7 @@
                     "endOffset": 1971
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 436,
-                        "endColumn": 36,
-                        "endOffset": 468
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -1702,14 +1436,7 @@
                     "endOffset": 2017
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 27,
-                        "startColumn": 4,
-                        "startOffset": 1219,
-                        "endColumn": 45,
-                        "endOffset": 1260
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -1721,14 +1448,7 @@
                     "endOffset": 2080
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 613,
-                        "endColumn": 62,
-                        "endOffset": 671
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -1740,14 +1460,7 @@
                     "endOffset": 2140
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 552,
-                        "endColumn": 59,
-                        "endOffset": 607
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -1757,144 +1470,88 @@
                     "startOffset": 2145,
                     "endLine": 49,
                     "endColumn": 12,
-                    "endOffset": 2393
+                    "endOffset": 2359
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 51,
-                        "startColumn": 4,
-                        "startOffset": 1725,
-                        "endLine": 56,
-                        "endColumn": 12,
-                        "endOffset": 1978
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/styles.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 2398,
+                    "startOffset": 2364,
                     "endLine": 55,
                     "endColumn": 12,
-                    "endOffset": 2640
+                    "endOffset": 2575
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 44,
-                        "startColumn": 4,
-                        "startOffset": 1470,
-                        "endLine": 49,
-                        "endColumn": 12,
-                        "endOffset": 1717
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/styles.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 56,
                     "startColumn": 4,
-                    "startOffset": 2645,
-                    "endLine": 65,
+                    "startOffset": 2580,
+                    "endLine": 58,
                     "endColumn": 12,
-                    "endOffset": 2934
+                    "endOffset": 2658
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 253,
-                        "endLine": 18,
-                        "endColumn": 12,
-                        "endOffset": 546
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/styles.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 66,
+                    "startLine": 59,
                     "startColumn": 4,
-                    "startOffset": 2939,
-                    "endLine": 70,
+                    "startOffset": 2663,
+                    "endLine": 63,
                     "endColumn": 12,
-                    "endOffset": 3145
+                    "endOffset": 2781
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 587,
-                        "endLine": 25,
-                        "endColumn": 12,
-                        "endOffset": 797
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 2786,
+                    "endLine": 67,
+                    "endColumn": 12,
+                    "endOffset": 2961
+                },
+                "from": {
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 2966,
+                    "endLine": 70,
+                    "endColumn": 12,
+                    "endOffset": 3091
+                },
+                "from": {
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/styles.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 71,
                     "startColumn": 4,
-                    "startOffset": 3150,
-                    "endLine": 74,
-                    "endColumn": 12,
-                    "endOffset": 3325
-                },
-                "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 39,
-                        "startColumn": 4,
-                        "startOffset": 1284,
-                        "endLine": 42,
-                        "endColumn": 12,
-                        "endOffset": 1462
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 75,
-                    "startColumn": 4,
-                    "startOffset": 3330,
+                    "startOffset": 3096,
                     "endLine": 77,
                     "endColumn": 12,
-                    "endOffset": 3455
+                    "endOffset": 3338
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 35,
-                        "startColumn": 4,
-                        "startOffset": 1149,
-                        "endLine": 37,
-                        "endColumn": 12,
-                        "endOffset": 1276
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 78,
-                    "startColumn": 4,
-                    "startOffset": 3460,
-                    "endLine": 84,
-                    "endColumn": 12,
-                    "endOffset": 3790
-                },
-                "from": {
-                    "file": "E:\\android\\CasualProject\\loveHousework\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 27,
-                        "startColumn": 4,
-                        "startOffset": 805,
-                        "endLine": 33,
-                        "endColumn": 12,
-                        "endOffset": 1141
-                    }
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/values/styles.xml"
                 }
             }
         ]

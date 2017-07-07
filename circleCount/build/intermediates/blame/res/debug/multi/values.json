@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\android\\CasualProject\\circleCount\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "/home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\circleCount\\src\\main\\res\\values\\dimens.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 164
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\circleCount\\src\\main\\res\\values\\dimens.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -49,13 +49,13 @@
                     "endOffset": 217
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\circleCount\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 108,
+                        "startOffset": 107,
                         "endColumn": 52,
-                        "endOffset": 156
+                        "endOffset": 155
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 265
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\circleCount\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 59,
+                        "startOffset": 58,
                         "endColumn": 47,
-                        "endOffset": 102
+                        "endOffset": 101
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 318
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\circleCount\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 162,
+                        "startOffset": 161,
                         "endColumn": 52,
-                        "endOffset": 210
+                        "endOffset": 209
                     }
                 }
             },
@@ -106,13 +106,13 @@
                     "endOffset": 368
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\circleCount\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 264,
+                        "startOffset": 263,
                         "endColumn": 49,
-                        "endOffset": 309
+                        "endOffset": 308
                     }
                 }
             },
@@ -125,13 +125,13 @@
                     "endOffset": 415
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\circleCount\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 216,
+                        "startOffset": 215,
                         "endColumn": 46,
-                        "endOffset": 258
+                        "endOffset": 257
                     }
                 }
             },
@@ -145,14 +145,14 @@
                     "endOffset": 706
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\circleCount\\src\\main\\res\\values\\styles.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 192,
+                        "startOffset": 191,
                         "endLine": 12,
                         "endColumn": 12,
-                        "endOffset": 484
+                        "endOffset": 481
                     }
                 }
             },
@@ -166,21 +166,21 @@
                     "endOffset": 866
                 },
                 "from": {
-                    "file": "D:\\android\\CasualProject\\circleCount\\src\\main\\res\\values\\styles.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 525,
+                        "startOffset": 522,
                         "endLine": 17,
                         "endColumn": 12,
-                        "endOffset": 682
+                        "endOffset": 679
                     }
                 }
             }
         ]
     },
     {
-        "outputFile": "E:\\android\\CasualProject\\circleCount\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleCount/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -191,7 +191,7 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\circleCount\\src\\main\\res\\values\\dimens.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleCount/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -210,7 +210,7 @@
                     "endOffset": 164
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\circleCount\\src\\main\\res\\values\\dimens.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleCount/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -229,13 +229,13 @@
                     "endOffset": 217
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\circleCount\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleCount/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 108,
+                        "startOffset": 107,
                         "endColumn": 52,
-                        "endOffset": 156
+                        "endOffset": 155
                     }
                 }
             },
@@ -248,13 +248,13 @@
                     "endOffset": 265
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\circleCount\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleCount/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 59,
+                        "startOffset": 58,
                         "endColumn": 47,
-                        "endOffset": 102
+                        "endOffset": 101
                     }
                 }
             },
@@ -267,13 +267,13 @@
                     "endOffset": 318
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\circleCount\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleCount/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 162,
+                        "startOffset": 161,
                         "endColumn": 52,
-                        "endOffset": 210
+                        "endOffset": 209
                     }
                 }
             },
@@ -286,13 +286,13 @@
                     "endOffset": 368
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\circleCount\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleCount/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 264,
+                        "startOffset": 263,
                         "endColumn": 49,
-                        "endOffset": 309
+                        "endOffset": 308
                     }
                 }
             },
@@ -305,13 +305,13 @@
                     "endOffset": 415
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\circleCount\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleCount/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 216,
+                        "startOffset": 215,
                         "endColumn": 46,
-                        "endOffset": 258
+                        "endOffset": 257
                     }
                 }
             },
@@ -325,14 +325,14 @@
                     "endOffset": 706
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\circleCount\\src\\main\\res\\values\\styles.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleCount/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 192,
+                        "startOffset": 191,
                         "endLine": 12,
                         "endColumn": 12,
-                        "endOffset": 484
+                        "endOffset": 481
                     }
                 }
             },
@@ -346,14 +346,14 @@
                     "endOffset": 866
                 },
                 "from": {
-                    "file": "E:\\android\\CasualProject\\circleCount\\src\\main\\res\\values\\styles.xml",
+                    "file": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleCount/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 525,
+                        "startOffset": 522,
                         "endLine": 17,
                         "endColumn": 12,
-                        "endOffset": 682
+                        "endOffset": 679
                     }
                 }
             }
