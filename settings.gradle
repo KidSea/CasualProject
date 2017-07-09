@@ -1,2 +1,2 @@
-include ':app', ':Mvc', ':Mvp', ':Mvvm', ':MyViewPagerDemo', ':mybutton', ':listviewdemo', ':loveHousework', ':circleMenu', ':circleCount', ':mygame2048', ':taobaoclient'
+include ':app', ':Mvc', ':Mvp', ':Mvvm', ':MyViewPagerDemo', ':mybutton', ':listviewdemo', ':loveHousework', ':circleMenu', ':circleCount', ':mygame2048', ':taobaoclient', ':lifecycledemo'
 include ':myNFCDemon'
