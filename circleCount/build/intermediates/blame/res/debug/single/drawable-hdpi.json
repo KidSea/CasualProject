@@ -2,9 +2,5 @@
     {
         "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
         "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/res/drawable-hdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleCount/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
-        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleCount/src/main/res/drawable-hdpi/ic_launcher.png"
     }
 ]

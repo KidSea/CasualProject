@@ -1,15 +1,7 @@
 [
     {
-        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleMenu/build/intermediates/res/merged/debug/drawable-ldpi/icon_myspace.png",
-        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleMenu/src/main/res/drawable-ldpi/icon_myspace.png"
-    },
-    {
         "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/build/intermediates/res/merged/debug/drawable-ldpi/icon_google.png",
         "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/src/main/res/drawable-ldpi/icon_google.png"
-    },
-    {
-        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleMenu/build/intermediates/res/merged/debug/drawable-ldpi/icon_google.png",
-        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleMenu/src/main/res/drawable-ldpi/icon_google.png"
     },
     {
         "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/build/intermediates/res/merged/debug/drawable-ldpi/icon_facebook.png",
@@ -20,24 +12,8 @@
         "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/src/main/res/drawable-ldpi/icon_linkedin.png"
     },
     {
-        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleMenu/build/intermediates/res/merged/debug/drawable-ldpi/icon_twitter.png",
-        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleMenu/src/main/res/drawable-ldpi/icon_twitter.png"
-    },
-    {
-        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleMenu/build/intermediates/res/merged/debug/drawable-ldpi/icon_linkedin.png",
-        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleMenu/src/main/res/drawable-ldpi/icon_linkedin.png"
-    },
-    {
-        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleMenu/build/intermediates/res/merged/debug/drawable-ldpi/icon_facebook.png",
-        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleMenu/src/main/res/drawable-ldpi/icon_facebook.png"
-    },
-    {
         "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/build/intermediates/res/merged/debug/drawable-ldpi/icon_wordpress.png",
         "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/src/main/res/drawable-ldpi/icon_wordpress.png"
-    },
-    {
-        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleMenu/build/intermediates/res/merged/debug/drawable-ldpi/icon_wordpress.png",
-        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleMenu/src/main/res/drawable-ldpi/icon_wordpress.png"
     },
     {
         "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/build/intermediates/res/merged/debug/drawable-ldpi/icon_twitter.png",

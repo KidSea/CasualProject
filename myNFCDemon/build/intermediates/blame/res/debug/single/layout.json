@@ -1,26 +1,10 @@
 [
     {
-        "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/D:\\android\\CasualProject\\myNFCDemon\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/D:\\android\\CasualProject\\myNFCDemon\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/E:\\android\\CasualProject\\myNFCDemon\\build\\intermediates\\res\\merged\\debug\\layout\\tag_vierwr.xml",
-        "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/E:\\android\\CasualProject\\myNFCDemon\\src\\main\\res\\layout\\tag_vierwr.xml"
-    },
-    {
         "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/build/intermediates/res/merged/debug/layout/activity_main.xml",
         "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/src/main/res/layout/activity_main.xml"
     },
     {
         "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/build/intermediates/res/merged/debug/layout/tag_vierwr.xml",
         "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/src/main/res/layout/tag_vierwr.xml"
-    },
-    {
-        "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/E:\\android\\CasualProject\\myNFCDemon\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/E:\\android\\CasualProject\\myNFCDemon\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/D:\\android\\CasualProject\\myNFCDemon\\build\\intermediates\\res\\merged\\debug\\layout\\tag_vierwr.xml",
-        "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/D:\\android\\CasualProject\\myNFCDemon\\src\\main\\res\\layout\\tag_vierwr.xml"
     }
 ]

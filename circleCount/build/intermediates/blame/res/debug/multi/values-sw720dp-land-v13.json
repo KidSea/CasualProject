@@ -1,29 +1,5 @@
 [
     {
-        "outputFile": "/home/yuxuehai/AndroidStudioProjects/CasualProject/E:\\android\\CasualProject\\circleCount\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 58,
-                    "endOffset": 109
-                },
-                "from": {
-                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/E:\\android\\CasualProject\\circleCount\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 206,
-                        "endColumn": 58,
-                        "endOffset": 260
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "/home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
         "map": [
             {
@@ -42,30 +18,6 @@
                         "startOffset": 205,
                         "endColumn": 58,
                         "endOffset": 259
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/home/yuxuehai/AndroidStudioProjects/CasualProject/D:\\android\\CasualProject\\circleCount\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 58,
-                    "endOffset": 109
-                },
-                "from": {
-                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/D:\\android\\CasualProject\\circleCount\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 206,
-                        "endColumn": 58,
-                        "endOffset": 260
                     }
                 }
             }

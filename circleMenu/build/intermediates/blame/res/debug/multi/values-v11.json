@@ -24,57 +24,5 @@
                 }
             }
         ]
-    },
-    {
-        "outputFile": "/home/yuxuehai/AndroidStudioProjects/CasualProject/E:\\android\\CasualProject\\circleMenu\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endLine": 4,
-                    "endColumn": 12,
-                    "endOffset": 187
-                },
-                "from": {
-                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/E:\\android\\CasualProject\\circleMenu\\src\\main\\res\\values-v11\\styles.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 794,
-                        "endLine": 23,
-                        "endColumn": 12,
-                        "endOffset": 928
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/home/yuxuehai/AndroidStudioProjects/CasualProject/D:\\android\\CasualProject\\circleMenu\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endLine": 4,
-                    "endColumn": 12,
-                    "endOffset": 187
-                },
-                "from": {
-                    "file": "/home/yuxuehai/AndroidStudioProjects/CasualProject/D:\\android\\CasualProject\\circleMenu\\src\\main\\res\\values-v11\\styles.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 794,
-                        "endLine": 23,
-                        "endColumn": 12,
-                        "endOffset": 928
-                    }
-                }
-            }
-        ]
     }
 ]

@@ -1,9 +1,5 @@
 [
     {
-        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleCount/build/intermediates/res/merged/debug/drawable-ldpi/androidapp.png",
-        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/circleCount/src/main/res/drawable-ldpi/androidapp.png"
-    },
-    {
         "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/build/intermediates/res/merged/debug/drawable-ldpi/androidapp.png",
         "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/res/drawable-ldpi/androidapp.png"
     }

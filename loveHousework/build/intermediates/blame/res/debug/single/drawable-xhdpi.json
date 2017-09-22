@@ -1,9 +1,5 @@
 [
     {
-        "merged": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
-        "source": "/home/yuxuehai/AndroidStudioProjects/MyApplication/loveHousework/src/main/res/drawable-xhdpi/ic_launcher.png"
-    },
-    {
         "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
         "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/drawable-xhdpi/ic_launcher.png"
     }

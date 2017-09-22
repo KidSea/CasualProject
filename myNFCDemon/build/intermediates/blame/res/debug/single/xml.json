@@ -1,14 +1,6 @@
 [
     {
-        "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/D:\\android\\CasualProject\\myNFCDemon\\build\\intermediates\\res\\merged\\debug\\xml\\nfc_tech_filter.xml",
-        "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/D:\\android\\CasualProject\\myNFCDemon\\src\\main\\res\\xml\\nfc_tech_filter.xml"
-    },
-    {
         "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/build/intermediates/res/merged/debug/xml/nfc_tech_filter.xml",
         "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/src/main/res/xml/nfc_tech_filter.xml"
-    },
-    {
-        "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/E:\\android\\CasualProject\\myNFCDemon\\build\\intermediates\\res\\merged\\debug\\xml\\nfc_tech_filter.xml",
-        "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/E:\\android\\CasualProject\\myNFCDemon\\src\\main\\res\\xml\\nfc_tech_filter.xml"
     }
 ]
