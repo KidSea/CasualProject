@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/mygame2048/mygame2048.iml" filepath="$PROJECT_DIR$/mygame2048/mygame2048.iml" />
       <module fileurl="file://$PROJECT_DIR$/rxjava2demo/rxjava2demo.iml" filepath="$PROJECT_DIR$/rxjava2demo/rxjava2demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/rxjavademo/rxjavademo.iml" filepath="$PROJECT_DIR$/rxjavademo/rxjavademo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxjavademo2/rxjavademo2.iml" filepath="$PROJECT_DIR$/rxjavademo2/rxjavademo2.iml" />
       <module fileurl="file://$PROJECT_DIR$/taobaoclient/taobaoclient.iml" filepath="$PROJECT_DIR$/taobaoclient/taobaoclient.iml" />
     </modules>
   </component>
