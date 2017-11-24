@@ -1,4 +1,4 @@
-package com.meizu.yuxuehai.rxjavademo2;
+package com.meizu.yuxuehai.rxjavademo2.ui;
 
 import android.app.FragmentManager;
 import android.os.Bundle;
@@ -11,6 +11,7 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import com.meizu.yuxuehai.rxjavademo2.R;
 import com.meizu.yuxuehai.rxjavademo2.fragment.FirstDemoFragment;
 
 public class MainActivity extends AppCompatActivity
