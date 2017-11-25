@@ -1,9 +1,10 @@
 package com.meizu.yuxuehai.rxjavademo2.fragment;
 
 import android.app.Fragment;
+import android.content.Context;
 import android.content.Intent;
-import android.content.pm.ResolveInfo;
-import android.graphics.Bitmap;
+import android.content.SharedPreferences;
+import android.content.pm.ResolveInfo;import android.graphics.Bitmap;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.widget.SwipeRefreshLayout;
@@ -15,14 +16,18 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Toast;
 
+import com.google.gson.Gson;
+import com.google.gson.reflect.TypeToken;
 import com.meizu.yuxuehai.rxjavademo2.MyApplication;
 import com.meizu.yuxuehai.rxjavademo2.R;
 import com.meizu.yuxuehai.rxjavademo2.adapter.ApplicationAdapter;
 import com.meizu.yuxuehai.rxjavademo2.bean.AppInfo;
 import com.meizu.yuxuehai.rxjavademo2.bean.AppInfoRich;
+import com.meizu.yuxuehai.rxjavademo2.bean.ApplicationsList;
 import com.meizu.yuxuehai.rxjavademo2.utils.Utils;
 
 import java.io.File;
+import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -30,6 +35,7 @@ import rx.Observable;
 import rx.Observer;
 import rx.Subscriber;
 import rx.android.schedulers.AndroidSchedulers;
+import rx.functions.Action0;
 import rx.functions.Action1;
 import rx.schedulers.Schedulers;
 
@@ -88,10 +94,12 @@ public class FirstDemoFragment extends Fragment {
     private void refreshList() {
         getApps()
                 .toSortedList()
+                .subscribeOn(Schedulers.io())
+                .observeOn(AndroidSchedulers.mainThread())
                 .subscribe(new Observer<List<AppInfo>>() {
                     @Override
                     public void onCompleted() {
-                        Toast.makeText(getActivity(), "Here is the list!", Toast.LENGTH_LONG).show();
+                        Toast.makeText(getActivity(), "Got the list!", Toast.LENGTH_LONG).show();
                     }
 
                     @Override
@@ -105,8 +113,24 @@ public class FirstDemoFragment extends Fragment {
                         mRecyclerView.setVisibility(View.VISIBLE);
                         mAdapter.addApplications(appInfos);
                         mSwipeRefreshLayout.setRefreshing(false);
+                        storeList(appInfos);
                     }
                 });
+    }
+
+    private void storeList(final List<AppInfo> appInfos) {
+        ApplicationsList.getInstance().setList(appInfos);
+
+        Schedulers.io().createWorker().schedule(new Action0() {
+            @Override
+            public void call() {
+                SharedPreferences sharedPref = FirstDemoFragment.this.getActivity().getPreferences(Context.MODE_PRIVATE);
+                Type appInfoType = new TypeToken<List<AppInfo>>() {
+                }.getType();
+                sharedPref.edit().putString("APPS", new Gson().toJson(appInfos, appInfoType)).apply();
+            }
+        });
+
     }
 
     private Observable<AppInfo> getApps(){

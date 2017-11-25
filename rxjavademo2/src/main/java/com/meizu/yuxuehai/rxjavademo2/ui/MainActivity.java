@@ -13,6 +13,7 @@ import android.view.MenuItem;
 
 import com.meizu.yuxuehai.rxjavademo2.R;
 import com.meizu.yuxuehai.rxjavademo2.fragment.FirstDemoFragment;
+import com.meizu.yuxuehai.rxjavademo2.fragment.SecondDemoFragment;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
@@ -81,6 +82,8 @@ public class MainActivity extends AppCompatActivity
                         replace(R.id.container, new FirstDemoFragment()).commit();
                 break;
             case R.id.demo_2:
+                fragmentManager.beginTransaction().
+                        replace(R.id.container, new SecondDemoFragment()).commit();
                 break;
             case R.id.demo_3:
                 break;
