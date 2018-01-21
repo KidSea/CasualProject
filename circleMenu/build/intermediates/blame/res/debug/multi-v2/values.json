@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "18,20,22,19,23,25,26,21,24",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "652,754,844,701,886,980,1024,800,932",
+                        "endColumns": "48,45,41,52,45,43,59,43,47",
+                        "endOffsets": "696,795,881,749,927,1019,1079,839,975"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "574,623,669,711,764,810,854,914,958",
+                        "endColumns": "48,45,41,52,45,43,59,43,47",
+                        "endOffsets": "618,664,706,759,805,849,909,953,1001"
+                    }
+                },
+                {
+                    "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "21,30",
+                        "startColumns": "4,4",
+                        "startOffsets": "782,1106",
+                        "endLines": "27,32",
+                        "endColumns": "12,12",
+                        "endOffsets": "1068,1261"
+                    },
+                    "to": {
+                        "startLines": "18,25",
+                        "startColumns": "4,4",
+                        "startOffsets": "1006,1297",
+                        "endLines": "24,27",
+                        "endColumns": "12,12",
+                        "endOffsets": "1292,1452"
+                    }
+                }
+            ]
+        }
+    ]
+}

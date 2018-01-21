@@ -1,6 +1,12 @@
 -- Merging decision tree log ---
 manifest
 ADDED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/src/main/AndroidManifest.xml:17:1-42:12
+INJECTED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/src/main/AndroidManifest.xml:17:1-42:12
+INJECTED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/src/main/AndroidManifest.xml:17:1-42:12
+INJECTED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/src/main/AndroidManifest.xml:17:1-42:12
+INJECTED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/src/main/AndroidManifest.xml:17:1-42:12
+INJECTED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/src/main/AndroidManifest.xml:17:1-42:12
+INJECTED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/src/main/AndroidManifest.xml:17:1-42:12
 	package
 		ADDED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/src/main/AndroidManifest.xml:18:5-36
 		INJECTED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/src/main/AndroidManifest.xml
@@ -9,14 +15,18 @@ ADDED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/src/mai
 		ADDED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/src/main/AndroidManifest.xml:20:5-30
 		INJECTED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/src/main/AndroidManifest.xml
 		INJECTED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/src/main/AndroidManifest.xml:17:11-69
 	android:versionCode
 		ADDED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/src/main/AndroidManifest.xml:19:5-28
 		INJECTED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/src/main/AndroidManifest.xml
 		INJECTED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/src/main/AndroidManifest.xml
-	xmlns:android
-		ADDED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/src/main/AndroidManifest.xml:17:11-69
 uses-sdk
 ADDED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/src/main/AndroidManifest.xml:22:5-24:41
+INJECTED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/src/main/AndroidManifest.xml:22:5-24:41
+INJECTED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/src/main/AndroidManifest.xml:22:5-24:41
+INJECTED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/src/main/AndroidManifest.xml:22:5-24:41
+INJECTED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/src/main/AndroidManifest.xml:22:5-24:41
 	android:targetSdkVersion
 		ADDED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/src/main/AndroidManifest.xml:24:9-38
 		INJECTED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/src/main/AndroidManifest.xml
@@ -29,10 +39,10 @@ application
 ADDED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/src/main/AndroidManifest.xml:26:5-40:19
 	android:label
 		ADDED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/src/main/AndroidManifest.xml:29:9-41
-	android:allowBackup
-		ADDED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/src/main/AndroidManifest.xml:27:9-35
 	android:icon
 		ADDED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/src/main/AndroidManifest.xml:28:9-45
+	android:allowBackup
+		ADDED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/src/main/AndroidManifest.xml:27:9-35
 	android:theme
 		ADDED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/src/main/AndroidManifest.xml:30:9-40
 activity#com.szugyi.circlemenu.MainActivity

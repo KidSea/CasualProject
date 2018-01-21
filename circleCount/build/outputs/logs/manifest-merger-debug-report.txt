@@ -1,6 +1,13 @@
 -- Merging decision tree log ---
 manifest
 ADDED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:support-v4:22.2.1] /home/yuxuehai/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.1.aar/1137eeb1259f5fd49cf2ba14d2050f5d/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/AndroidManifest.xml:2:1-27:12
 	package
 		ADDED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/AndroidManifest.xml:3:5-37
 		INJECTED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/AndroidManifest.xml
@@ -9,15 +16,20 @@ ADDED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/ma
 		ADDED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/AndroidManifest.xml:5:5-30
 		INJECTED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/AndroidManifest.xml
 		INJECTED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
 		ADDED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/AndroidManifest.xml:4:5-28
 		INJECTED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/AndroidManifest.xml
 		INJECTED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/AndroidManifest.xml
-	xmlns:android
-		ADDED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/AndroidManifest.xml:2:11-69
 uses-sdk
 ADDED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-v4:22.2.1] /home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+INJECTED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.2.1] /home/yuxuehai/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.1.aar/1137eeb1259f5fd49cf2ba14d2050f5d/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] /home/yuxuehai/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.1.aar/1137eeb1259f5fd49cf2ba14d2050f5d/AndroidManifest.xml:20:5-43
+INJECTED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/AndroidManifest.xml:7:5-9:41
 	android:targetSdkVersion
 		ADDED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/AndroidManifest.xml:9:9-38
 		INJECTED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/AndroidManifest.xml
@@ -28,13 +40,14 @@ MERGED from [com.android.support:support-v4:22.2.1] /home/yuxuehai/AndroidStudio
 		INJECTED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/AndroidManifest.xml
 application
 ADDED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/AndroidManifest.xml:11:5-25:19
-MERGED from [com.android.support:support-v4:22.2.1] /home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] /home/yuxuehai/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.1.aar/1137eeb1259f5fd49cf2ba14d2050f5d/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] /home/yuxuehai/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.1.aar/1137eeb1259f5fd49cf2ba14d2050f5d/AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/AndroidManifest.xml:14:9-41
-	android:allowBackup
-		ADDED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/AndroidManifest.xml:12:9-35
 	android:icon
 		ADDED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/AndroidManifest.xml:13:9-44
+	android:allowBackup
+		ADDED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/AndroidManifest.xml:12:9-35
 	android:theme
 		ADDED from /home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/AndroidManifest.xml:15:9-40
 activity#com.example.circledemo.MainActivity
