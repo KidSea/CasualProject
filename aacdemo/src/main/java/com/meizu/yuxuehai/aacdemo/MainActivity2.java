@@ -21,7 +21,7 @@ import android.widget.Chronometer;
 
 import com.meizu.yuxuehai.aacdemo.model.ChronometerViewModel;
 
-public class MainActivity extends AppCompatActivity
+public class MainActivity2 extends AppCompatActivity
         implements LifecycleOwner, NavigationView.OnNavigationItemSelectedListener {
 
     private MyLocationListener mMyLocationListener;
