@@ -1,2 +1,2 @@
-include ':app', ':Mvc', ':Mvp', ':Mvvm', ':MyViewPagerDemo', ':mybutton', ':listviewdemo', ':loveHousework', ':circleMenu', ':circleCount', ':mygame2048', ':taobaoclient', ':lifecycledemo', ':rxjavademo', ':rxjava2demo', ':rxjavademo2', ':aacdemo'
+include ':app', ':Mvc', ':Mvp', ':Mvvm', ':MyViewPagerDemo', ':mybutton', ':listviewdemo', ':loveHousework', ':circleMenu', ':circleCount', ':mygame2048', ':taobaoclient', ':lifecycledemo', ':rxjavademo', ':rxjava2demo', ':rxjavademo2', ':aacdemo', ':googlemvp'
 include ':myNFCDemon'
