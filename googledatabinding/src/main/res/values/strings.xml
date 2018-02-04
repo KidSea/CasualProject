@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">GoogleDataBinding</string>
+    <string name="app_name">GoogleMVP</string>
+    <string name="account">账号：</string>
+    <string name="passwd">密码：</string>
+    <string name="bt_submit">提交</string>
 </resources>
