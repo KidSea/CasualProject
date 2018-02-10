@@ -42,7 +42,7 @@ public class LoginFragment extends Fragment implements View.OnClickListener {
     @Override
     public void onActivityCreated(@Nullable Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
-        mBinding.setModel(mLoginViewModel);
+        mBinding.setLogin(mLoginViewModel);
     }
 
     @Override

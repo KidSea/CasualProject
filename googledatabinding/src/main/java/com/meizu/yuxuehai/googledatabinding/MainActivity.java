@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
             ActivityUtils.addFragmentToActivity(
                     getSupportFragmentManager(),
                     ViewModelHolder.createContainer(viewModel),
-                    Integer.parseInt(LOGIN_VIEWMODEL_TAG));
+                    LOGIN_VIEWMODEL_TAG);
             return viewModel;
         }
     }
