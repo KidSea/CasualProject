@@ -19,6 +19,7 @@ buildscript {
 allprojects {
     repositories {
         jcenter()
+        google()
         maven {
             url 'https://maven.google.com/'
             name 'Google'
@@ -50,4 +51,14 @@ ext {
     rulesVersion = '1.0.1'
     espressoVersion = '3.0.1'
     roomVersion = "1.0.0"
+}
+
+subprojects {
+    tasks.withType(com.android.build.gradle.internal.tasks.databinding.DataBindingExportBuildInfoTask) { task ->
+        if (task.name.endsWith("AndroidTest")) {
+            task.finalizedBy(tasks.create("${task.name}Workaround") << {
+                task.output.deleteDir()
+            })
+        }
+    }
 }
