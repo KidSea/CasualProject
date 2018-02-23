@@ -15,7 +15,7 @@ import com.meizu.yuxuehai.googledatabinding.model.LoginViewModel;
  * Created by yuxuehai on 18-1-27.
  */
 
-public class LoginFragment extends Fragment implements View.OnClickListener {
+public class LoginFragment extends Fragment {
 
     private FragmentLoginBinding mBinding;
     private LoginViewModel mLoginViewModel;
@@ -36,7 +36,6 @@ public class LoginFragment extends Fragment implements View.OnClickListener {
     }
 
     private void initView() {
-        mBinding.btSub.setOnClickListener(this);
     }
 
     @Override
@@ -53,10 +52,5 @@ public class LoginFragment extends Fragment implements View.OnClickListener {
 
     public void setViewModel(LoginViewModel loginViewModel) {
         mLoginViewModel = loginViewModel;
-    }
-
-    @Override
-    public void onClick(View view) {
-        mLoginViewModel.checkLogin();
     }
 }

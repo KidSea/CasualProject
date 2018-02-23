@@ -6,6 +6,7 @@ import android.databinding.ObservableBoolean;
 import android.text.Editable;
 import android.text.TextWatcher;
 import android.widget.Toast;
+import android.view.View;
 
 import com.meizu.yuxuehai.googledatabinding.model.bean.User;
 import com.meizu.yuxuehai.googledatabinding.model.net.NetModule;
@@ -29,6 +30,8 @@ public class LoginViewModel extends BaseObservable {
     public LoginViewModel(Context context, DataRespository dataRespository) {
         mDataRespository =  dataRespository;
         mContext = context;
+        mUser.setName("a");
+        mUser.setPasswd("123");
     }
 
     public void start(){
@@ -75,7 +78,7 @@ public class LoginViewModel extends BaseObservable {
     };
 
 
-    public void checkLogin() {
+    public void onCheckLogin(View view) {
         checking.set(true);
         show.set(false);
         if (mNetModule.checkUser(mUser)){
