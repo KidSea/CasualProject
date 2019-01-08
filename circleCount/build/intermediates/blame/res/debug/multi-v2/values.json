@@ -1,34 +1,34 @@
 {
     "logs": [
         {
-            "outputFile": "/home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/mi/App/CasualProject/circleCount/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/res/values/strings.xml",
+                    "source": "/home/mi/App/CasualProject/circleCount/src/main/res/values/dimens.xml",
                     "from": {
-                        "startLines": "4,3,5,7,6",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "107,58,161,263,215",
-                        "endColumns": "52,47,52,49,46",
-                        "endOffsets": "155,101,209,308,257"
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
                     },
                     "to": {
-                        "startLines": "4,5,6,7,8",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "169,222,270,323,373",
-                        "endColumns": "52,47,52,49,46",
-                        "endOffsets": "217,265,318,368,415"
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
                     }
                 },
                 {
-                    "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/res/values/styles.xml",
+                    "source": "/home/mi/App/CasualProject/circleCount/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "6,15",
                         "startColumns": "4,4",
-                        "startOffsets": "191,522",
+                        "startOffsets": "186,510",
                         "endLines": "12,17",
                         "endColumns": "12,12",
-                        "endOffsets": "481,679"
+                        "endOffsets": "472,665"
                     },
                     "to": {
                         "startLines": "9,16",
@@ -40,20 +40,20 @@
                     }
                 },
                 {
-                    "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/circleCount/src/main/res/values/dimens.xml",
+                    "source": "/home/mi/App/CasualProject/circleCount/src/main/res/values/strings.xml",
                     "from": {
-                        "startLines": "3,4",
-                        "startColumns": "4,4",
-                        "startOffsets": "92,151",
-                        "endColumns": "57,55",
-                        "endOffsets": "145,202"
+                        "startLines": "4,3,5,7,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "104,56,157,257,210",
+                        "endColumns": "52,47,52,49,46",
+                        "endOffsets": "152,99,205,302,252"
                     },
                     "to": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,113",
-                        "endColumns": "57,55",
-                        "endOffsets": "108,164"
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "169,222,270,323,373",
+                        "endColumns": "52,47,52,49,46",
+                        "endOffsets": "217,265,318,368,415"
                     }
                 }
             ]

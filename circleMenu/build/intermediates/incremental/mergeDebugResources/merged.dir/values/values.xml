@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <declare-styleable name="Circle"><attr format="integer" name="circleBackground"/><attr name="firstChildPosition">
+    <declare-styleable name="Circle">
+        <attr format="integer" name="circleBackground"/>
+        <attr name="firstChildPosition">
             <enum name="East" value="0"/>
             <enum name="South" value="90"/>
             <enum name="West" value="180"/>
             <enum name="North" value="270"/>
-        </attr><attr format="boolean" name="rotateToCenter"/><attr format="boolean" name="isRotating"/></declare-styleable>
-    <declare-styleable name="CircleImageView"><attr format="string" name="name"/></declare-styleable>
+        </attr>
+        <attr format="boolean" name="rotateToCenter"/>
+        <attr format="boolean" name="isRotating"/>
+    </declare-styleable>
+    <declare-styleable name="CircleImageView">
+        <attr format="string" name="name"/>
+    </declare-styleable>
     <string name="app_name">Circle Menu</string>
     <string name="facebook">Facebook</string>
     <string name="google">Google</string>

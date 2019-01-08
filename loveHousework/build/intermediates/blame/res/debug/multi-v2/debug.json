@@ -1,86 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/build/intermediates/res/merged/debug/values-v14_values-v14.arsc.flat",
+            "outputFile": "/home/mi/App/CasualProject/loveHousework/build/intermediates/res/merged/debug/values_values.arsc.flat",
             "map": [
                 {
-                    "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values-v14/styles.xml",
-                    "from": {
-                        "startLines": "7",
-                        "startColumns": "4",
-                        "startOffsets": "225",
-                        "endLines": "9",
-                        "endColumns": "12",
-                        "endOffsets": "373"
-                    },
-                    "to": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "4",
-                        "endColumns": "12",
-                        "endOffsets": "201"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/build/intermediates/res/merged/debug/values-sw720dp-land-v13_values-sw720dp-land-v13.arsc.flat",
-            "map": [
-                {
-                    "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values-sw720dp-land/dimens.xml",
-                    "from": {
-                        "startLines": "6",
-                        "startColumns": "4",
-                        "startOffsets": "205",
-                        "endColumns": "58",
-                        "endOffsets": "259"
-                    },
-                    "to": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "58",
-                        "endOffsets": "109"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/build/intermediates/res/merged/debug/values-v11_values-v11.arsc.flat",
-            "map": [
-                {
-                    "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values-v11/styles.xml",
-                    "from": {
-                        "startLines": "6",
-                        "startColumns": "4",
-                        "startOffsets": "182",
-                        "endLines": "8",
-                        "endColumns": "12",
-                        "endOffsets": "316"
-                    },
-                    "to": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "4",
-                        "endColumns": "12",
-                        "endOffsets": "187"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/build/intermediates/res/merged/debug/values_values.arsc.flat",
-            "map": [
-                {
-                    "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/dimens.xml",
+                    "source": "/home/mi/App/CasualProject/loveHousework/src/main/res/values/dimens.xml",
                     "from": {
                         "startLines": "3,4",
                         "startColumns": "4,4",
-                        "startOffsets": "92,151",
+                        "startOffsets": "89,147",
                         "endColumns": "57,55",
-                        "endOffsets": "145,202"
+                        "endOffsets": "142,198"
                     },
                     "to": {
                         "startLines": "18,19",
@@ -91,13 +21,13 @@
                     }
                 },
                 {
-                    "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/colors.xml",
+                    "source": "/home/mi/App/CasualProject/loveHousework/src/main/res/values/colors.xml",
                     "from": {
                         "startLines": "7,8,5,10,9,11,12,14,13,4,17,18,16,15,3,6",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "220,261,139,347,307,396,446,543,498,98,680,732,635,590,59,179",
+                        "startOffsets": "213,253,134,337,298,385,434,529,485,94,663,714,619,575,56,173",
                         "endColumns": "39,44,38,47,38,48,50,45,43,39,50,43,43,43,37,39",
-                        "endOffsets": "255,301,173,390,341,440,492,584,537,133,726,771,674,629,92,214"
+                        "endOffsets": "248,293,168,380,332,429,480,570,524,129,709,753,658,614,89,208"
                     },
                     "to": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
@@ -108,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/styles.xml",
+                    "source": "/home/mi/App/CasualProject/loveHousework/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "51,44,9,21,39,35,27",
                         "startColumns": "4,4,4,4,4,4,4",
@@ -127,7 +57,7 @@
                     }
                 },
                 {
-                    "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/strings.xml",
+                    "source": "/home/mi/App/CasualProject/loveHousework/src/main/res/values/strings.xml",
                     "from": {
                         "startLines": "5,38,35,34,4,24,37,32,30,29,25,17,18,9,22,6,12,20,7,8,11,27,15,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -141,6 +71,76 @@
                         "startOffsets": "871,924,979,1037,1093,1136,1183,1231,1274,1329,1387,1438,1493,1542,1595,1672,1725,1768,1833,1884,1939,1976,2022,2085",
                         "endColumns": "52,54,57,55,42,46,47,42,54,57,50,54,48,52,76,52,42,64,50,54,36,45,62,59",
                         "endOffsets": "919,974,1032,1088,1131,1178,1226,1269,1324,1382,1433,1488,1537,1590,1667,1720,1763,1828,1879,1934,1971,2017,2080,2140"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/mi/App/CasualProject/loveHousework/build/intermediates/res/merged/debug/values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/mi/App/CasualProject/loveHousework/src/main/res/values-v14/styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "220",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "366"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/mi/App/CasualProject/loveHousework/build/intermediates/res/merged/debug/values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/mi/App/CasualProject/loveHousework/src/main/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "177",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "309"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/mi/App/CasualProject/loveHousework/build/intermediates/res/merged/debug/values-sw720dp-land-v13_values-sw720dp-land-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/mi/App/CasualProject/loveHousework/src/main/res/values-sw720dp-land/dimens.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "200",
+                        "endColumns": "58",
+                        "endOffsets": "254"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
                     }
                 }
             ]

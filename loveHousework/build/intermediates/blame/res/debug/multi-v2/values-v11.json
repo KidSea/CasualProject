@@ -1,17 +1,17 @@
 {
     "logs": [
         {
-            "outputFile": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "outputFile": "/home/mi/App/CasualProject/loveHousework/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
             "map": [
                 {
-                    "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values-v11/styles.xml",
+                    "source": "/home/mi/App/CasualProject/loveHousework/src/main/res/values-v11/styles.xml",
                     "from": {
                         "startLines": "6",
                         "startColumns": "4",
-                        "startOffsets": "182",
+                        "startOffsets": "177",
                         "endLines": "8",
                         "endColumns": "12",
-                        "endOffsets": "316"
+                        "endOffsets": "309"
                     },
                     "to": {
                         "startLines": "2",

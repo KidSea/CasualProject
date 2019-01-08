@@ -1,34 +1,34 @@
 [
     {
-        "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
-        "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/src/main/res/drawable-hdpi/ic_launcher.png"
+        "merged": "/home/mi/App/CasualProject/myNFCDemon/build/intermediates/res/merged/debug/xml_nfc_tech_filter.xml.flat",
+        "source": "/home/mi/App/CasualProject/myNFCDemon/src/main/res/xml/nfc_tech_filter.xml"
     },
     {
-        "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/build/intermediates/res/merged/debug/menu_main.xml.flat",
-        "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/src/main/res/menu/main.xml"
+        "merged": "/home/mi/App/CasualProject/myNFCDemon/build/intermediates/res/merged/debug/layout_tag_vierwr.xml.flat",
+        "source": "/home/mi/App/CasualProject/myNFCDemon/src/main/res/layout/tag_vierwr.xml"
     },
     {
-        "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
-        "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/src/main/res/drawable-mdpi/ic_launcher.png"
+        "merged": "/home/mi/App/CasualProject/myNFCDemon/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/home/mi/App/CasualProject/myNFCDemon/src/main/res/drawable-mdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
-        "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/src/main/res/drawable-xhdpi/ic_launcher.png"
+        "merged": "/home/mi/App/CasualProject/myNFCDemon/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/home/mi/App/CasualProject/myNFCDemon/src/main/res/drawable-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
-        "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/src/main/res/layout/activity_main.xml"
+        "merged": "/home/mi/App/CasualProject/myNFCDemon/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/mi/App/CasualProject/myNFCDemon/src/main/res/drawable-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
-        "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/src/main/res/drawable-xxhdpi/ic_launcher.png"
+        "merged": "/home/mi/App/CasualProject/myNFCDemon/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/home/mi/App/CasualProject/myNFCDemon/src/main/res/menu/main.xml"
     },
     {
-        "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/build/intermediates/res/merged/debug/xml_nfc_tech_filter.xml.flat",
-        "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/src/main/res/xml/nfc_tech_filter.xml"
+        "merged": "/home/mi/App/CasualProject/myNFCDemon/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/mi/App/CasualProject/myNFCDemon/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/build/intermediates/res/merged/debug/layout_tag_vierwr.xml.flat",
-        "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/src/main/res/layout/tag_vierwr.xml"
+        "merged": "/home/mi/App/CasualProject/myNFCDemon/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/home/mi/App/CasualProject/myNFCDemon/src/main/res/drawable-hdpi/ic_launcher.png"
     }
 ]

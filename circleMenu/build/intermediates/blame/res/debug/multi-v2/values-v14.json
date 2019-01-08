@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+            "outputFile": "/home/mi/App/CasualProject/circleMenu/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
             "map": [
                 {
-                    "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/circleMenu/src/main/res/values-v14/styles.xml",
+                    "source": "/home/mi/App/CasualProject/circleMenu/src/main/res/values-v14/styles.xml",
                     "from": {
                         "startLines": "22",
                         "startColumns": "4",

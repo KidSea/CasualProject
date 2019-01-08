@@ -1,35 +1,35 @@
 com.example.mynfcdemon
-int color black 0x7f010000
-int color blue 0x7f010001
-int color green 0x7f010002
-int color home_page_color_bg 0x7f010003
-int color red 0x7f010004
-int color text_color 0x7f010005
-int color title_bg_color 0x7f010006
-int color unhome_color_bg 0x7f010007
-int color white 0x7f010008
-int dimen activity_horizontal_margin 0x7f020000
-int dimen activity_vertical_margin 0x7f020001
-int drawable ic_launcher 0x7f030000
-int id action_settings 0x7f040000
-int id tagdatatext 0x7f040001
-int id tagidtext 0x7f040002
-int layout activity_main 0x7f050000
-int layout tag_vierwr 0x7f050001
-int menu main 0x7f060000
-int string action_settings 0x7f070000
-int string app_name 0x7f070001
-int string hello_world 0x7f070002
-int string rfid_find 0x7f070003
-int string rfid_findnull 0x7f070004
-int string rfid_rdata 0x7f070005
-int string rfid_read 0x7f070006
-int string rfid_readerror 0x7f070007
-int string rfid_search 0x7f070008
-int string rfid_test 0x7f070009
-int string rfid_wdata 0x7f07000a
-int string rfid_write 0x7f07000b
-int string rfid_writeerror 0x7f07000c
-int style AppBaseTheme 0x7f080000
-int style AppTheme 0x7f080001
-int xml nfc_tech_filter 0x7f090000
+color black
+color blue
+color green
+color home_page_color_bg
+color red
+color text_color
+color title_bg_color
+color unhome_color_bg
+color white
+dimen activity_horizontal_margin
+dimen activity_vertical_margin
+drawable ic_launcher
+id action_settings
+id tagdatatext
+id tagidtext
+layout activity_main
+layout tag_vierwr
+menu main
+string action_settings
+string app_name
+string hello_world
+string rfid_find
+string rfid_findnull
+string rfid_rdata
+string rfid_read
+string rfid_readerror
+string rfid_search
+string rfid_test
+string rfid_wdata
+string rfid_write
+string rfid_writeerror
+style AppBaseTheme
+style AppTheme
+xml nfc_tech_filter

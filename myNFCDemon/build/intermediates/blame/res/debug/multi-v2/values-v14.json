@@ -1,17 +1,17 @@
 {
     "logs": [
         {
-            "outputFile": "/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+            "outputFile": "/home/mi/App/CasualProject/myNFCDemon/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
             "map": [
                 {
-                    "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/myNFCDemon/src/main/res/values-v14/styles.xml",
+                    "source": "/home/mi/App/CasualProject/myNFCDemon/src/main/res/values-v14/styles.xml",
                     "from": {
                         "startLines": "7",
                         "startColumns": "4",
-                        "startOffsets": "225",
+                        "startOffsets": "220",
                         "endLines": "9",
                         "endColumns": "12",
-                        "endOffsets": "373"
+                        "endOffsets": "366"
                     },
                     "to": {
                         "startLines": "2",

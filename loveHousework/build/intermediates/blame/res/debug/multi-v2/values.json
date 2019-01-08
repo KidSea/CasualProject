@@ -1,16 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/mi/App/CasualProject/loveHousework/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/dimens.xml",
+                    "source": "/home/mi/App/CasualProject/loveHousework/src/main/res/values/dimens.xml",
                     "from": {
                         "startLines": "3,4",
                         "startColumns": "4,4",
-                        "startOffsets": "92,151",
+                        "startOffsets": "89,147",
                         "endColumns": "57,55",
-                        "endOffsets": "145,202"
+                        "endOffsets": "142,198"
                     },
                     "to": {
                         "startLines": "18,19",
@@ -21,13 +21,13 @@
                     }
                 },
                 {
-                    "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/colors.xml",
+                    "source": "/home/mi/App/CasualProject/loveHousework/src/main/res/values/colors.xml",
                     "from": {
                         "startLines": "7,8,5,10,9,11,12,14,13,4,17,18,16,15,3,6",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "220,261,139,347,307,396,446,543,498,98,680,732,635,590,59,179",
+                        "startOffsets": "213,253,134,337,298,385,434,529,485,94,663,714,619,575,56,173",
                         "endColumns": "39,44,38,47,38,48,50,45,43,39,50,43,43,43,37,39",
-                        "endOffsets": "255,301,173,390,341,440,492,584,537,133,726,771,674,629,92,214"
+                        "endOffsets": "248,293,168,380,332,429,480,570,524,129,709,753,658,614,89,208"
                     },
                     "to": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/styles.xml",
+                    "source": "/home/mi/App/CasualProject/loveHousework/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "51,44,9,21,39,35,27",
                         "startColumns": "4,4,4,4,4,4,4",
@@ -57,7 +57,7 @@
                     }
                 },
                 {
-                    "source": "/home/yuxuehai/AndroidStudioProjects/CasualProject/loveHousework/src/main/res/values/strings.xml",
+                    "source": "/home/mi/App/CasualProject/loveHousework/src/main/res/values/strings.xml",
                     "from": {
                         "startLines": "5,38,35,34,4,24,37,32,30,29,25,17,18,9,22,6,12,20,7,8,11,27,15,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
