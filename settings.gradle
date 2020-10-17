@@ -1,2 +1,3 @@
-include ':app', ':Mvc', ':Mvp', ':Mvvm', ':MyViewPagerDemo', ':mybutton', ':listviewdemo', ':loveHousework', ':circleMenu', ':circleCount', ':mygame2048', ':taobaoclient', ':lifecycledemo', ':rxjavademo', ':rxjava2demo', ':rxjavademo2', ':aacdemo', ':googlemvp', ':googledatabinding'
-include ':myNFCDemon'
+include ':app'
+//        ':Mvc', ':Mvp', ':Mvvm', ':MyViewPagerDemo', ':mybutton', ':listviewdemo', ':loveHousework', ':circleMenu', ':circleCount', ':mygame2048', ':taobaoclient', ':lifecycledemo', ':rxjavademo', ':rxjava2demo', ':rxjavademo2', ':aacdemo', ':googlemvp', ':googledatabinding'
+//include ':myNFCDemon'
