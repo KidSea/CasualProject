@@ -5,14 +5,11 @@
     android:id="@+id/activity_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:gravity="center"
-    tools:context="com.example.yuxuehai.casualproject.MainActivity">
+    tools:context=".demo1.AdapterActivity">
 
-    <Button
-        android:id="@+id/btn_router_test"
-        android:layout_width="wrap_content"
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerview_vertical"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="点击Router跳转"
-        android:textSize="20sp"
-        />
+        android:scrollbars="vertical" />
 </LinearLayout>

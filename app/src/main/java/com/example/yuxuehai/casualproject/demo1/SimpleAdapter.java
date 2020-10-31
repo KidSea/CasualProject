@@ -1,4 +1,4 @@
-package com.example.yuxuehai.casualproject;
+package com.example.yuxuehai.casualproject.demo1;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -6,6 +6,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
+
+import com.example.yuxuehai.casualproject.R;
 
 import java.util.ArrayList;
 
