@@ -11,6 +11,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/asm_lifecycle_plugin" />
+            <option value="$PROJECT_DIR$/asmlifecycledemo" />
+            <option value="$PROJECT_DIR$/asmlifecycledemo/asm_lifecycle_plugin" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

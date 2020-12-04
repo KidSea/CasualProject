@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/CasualProject-master.iml" filepath="$PROJECT_DIR$/.idea/CasualProject-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CasualProject-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CasualProject-master.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/asm_lifecycle_plugin/CasualProject-master.asm_lifecycle_plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/asm_lifecycle_plugin/CasualProject-master.asm_lifecycle_plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/asmlifecycledemo/CasualProject-master.asmlifecycledemo.iml" filepath="$PROJECT_DIR$/.idea/modules/asmlifecycledemo/CasualProject-master.asmlifecycledemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/asmlifecycledemo/asm_lifecycle_plugin/CasualProject-master.asmlifecycledemo.asm_lifecycle_plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/asmlifecycledemo/asm_lifecycle_plugin/CasualProject-master.asmlifecycledemo.asm_lifecycle_plugin.iml" />
     </modules>
   </component>
 </project>
